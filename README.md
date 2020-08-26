@@ -21,9 +21,7 @@ Having a RIP here does not make it a formally accepted standard until its status
 | Krishna Dahak
 | Process
 | Discussion
-|- style="background-color: #cfffcf"
-| [[bip-0002.mediawiki|2]]
 |}
 
 
-<!-- IMPORTANT! do NOT JUST add BIPs here! -->
+<!-- IMPORTANT! do NOT JUST add RIPs here! -->
