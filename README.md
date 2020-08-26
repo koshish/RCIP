@@ -7,21 +7,9 @@ Process of aging is: 1) Submission 2) Discussion 3) Voting 4) Decision 5) Final/
 Having a RIP here does not make it a formally accepted standard until its status becomes Final or Active.
 
 
-{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
-!Number
-!Impact Layer
-!Title
-!Owner
-!Type
-!Status
-|- style="background-color: #ffcfcf"
-| [[bip-0001.mediawiki|1]]
-|
-| RIP Guidelines
-| Krishna Dahak
-| Process
-| Discussion
-|}
+| Number | Impact Layer | Title          | Owner         | Type    | Status     |
+| ------ | ------------ | -------------- | ------------- | ------- | ---------- |
+| 1      | Process      | RIP Guidelines | Krishna Dahal | Process | Discussion |
 
 
 <!-- IMPORTANT! do NOT JUST add RIPs here! -->
