@@ -10,6 +10,7 @@ Having a RIP here does not make it a formally accepted standard until its status
 | Number | Impact Layer | Title          | Owner         | Type    | Status     |
 | ------ | ------------ | -------------- | ------------- | ------- | ---------- |
 | 1      | Process      | RIP Guidelines | Krishna Dahal | Process | Discussion |
+| 2      | HHHJHD       |
 
 
 <!-- IMPORTANT! do NOT JUST add RIPs here! -->
