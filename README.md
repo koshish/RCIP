@@ -7,10 +7,10 @@ Process of aging is: 1) Submission 2) Discussion 3) Voting 4) Decision 5) Final/
 Having a RIP here does not make it a formally accepted standard until its status becomes Final or Active.
 
 
-| Number | Impact Layer | Title          | Owner         | Type    | Status     |
-| ------ | ------------ | -------------- | ------------- | ------- | ---------- |
-| 1      | Process      | RIP Guidelines | Krishna Dahal | Process | Discussion |
-| 2      | HHHJHD       |
+| Number | Impact Layer | Title          | Owner         | Type    | Voting Yes/No  | Status       |
+| ------ | ------------ | -------------- | ------------- | ------- | -------------- | ------------ |
+| 1      | Process      | RIP Guidelines | Krishna Dahal | Process |     11-0       | Final/Active |
+| 2      | Content      | Onboarding     | Anil          |         |                |              | 
 
 
 <!-- IMPORTANT! do NOT JUST add RIPs here! -->
