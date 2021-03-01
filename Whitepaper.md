@@ -3,7 +3,7 @@ RECAP is a cryptocurrency used in BuzzerNepal and CoinDesk Nepal to decentralize
 
 Last Updated: March 1, 2021
 
-- [Home Page](https://www.reviewcapital.org) | - [BuzzerNepal](https://www.buzzernepal.com) | -[CoinDesk Nepal](https://www.coindesknepal.com)
+- [Home Page](https://www.reviewcapital.org) | [BuzzerNepal](https://www.buzzernepal.com) | [CoinDesk Nepal](https://www.coindesknepal.com)
 
 ## Abstract
 >With 
