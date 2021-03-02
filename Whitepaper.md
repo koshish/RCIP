@@ -43,8 +43,25 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 Since RECAP tokens are rewards to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
 
 <i><b>Rewards of writers based on trust score of news articles</i></b>
+All submitted news articles are validated and assigned a final Trust Score within 7 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
+a) It must have Trust Score of 50% or more.
+b) It must have passed 7 days period of publication before Weekly Reward Distribution is triggered.
+
+Weekly reward pool = 40% of (minted + fee collected) = 13,200 RECAP + 40% of Collected fee
+
+| Trust Score  | Weekly Rewards Pool %  | Weekly Rewards Pool (RECAP)   | Distribution  |
+| ------------ | ---------------------- | ----------------------------- | :-----------: |
+| 50% - 60%    | 5%                     | 660  RECAP  +  fee            |  Equal        |
+| 61% - 70%    | 10%                    | 1320 RECAP  +  fee            |  Equal        |
+| 71% - 80%    | 20%                    | 2640 RECAP  +  fee            |  Equal        |
+| 81% - 90%    | 25%                    | 3300 RECAP  +  fee            |  Equal        |
+| 91% - 100%   | 40%                    | 5280 RECAP  +  fee            |  Equal        |
+
+If there is no articles in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
 <i><b>Rewards of validators based on profile score</i></b>
+
+
 
 ## Smart Contract Details
 
