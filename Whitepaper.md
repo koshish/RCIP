@@ -18,7 +18,7 @@ Last Updated: March 1, 2021
 
 ## Community Ecosystem
 
-## Smart Contract Details
+## Reward Mechanism
 
 ## Smart Contract Details
 
