@@ -31,10 +31,12 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 
 ## Community Ecosystem
 * News Writers: Anyone who submits news or article or review contents for publication is called News Writer. Each news writer gets reward based on Trust Score of news article.
+>Trust Score: Trust score is a percentage value assigned to each article after curation from Validators. A news article with less than 50% Trust Score does not qualify for rewards. Validation are randomly push over to sample population of active validators for Publication Check, Evidence Check, Quality Check and Impact Check.
+
 * Validators: Anyone who participates in validation of news content and advertisements is called Validator. Each validator gets reward based on Profile Score.
+>Profile Score: Profile score is a percentage value assigned to each validator after completion of validation task. A validator with less than 50% Profile Score does not qualify for rewards. 
+
 * Developers: Anyone who is a member of core team working on RECAP protocol is called Developer. Reward received in developer wallet is used for growth of RECAP ecosystem.
-* Trust Score: Trust score is a percentage value assigned to each article after curation from Validators. A news article with less than 50% Trust Score does not qualify for rewards. Validation are randomly push over to sample population of active validators for Publication Check, Evidence Check, Quality Check and Impact Check.
-* Profile Score: Profile score is a percentage value assigned to each validator after completion of validation task. A validator with less than 50% Profile Score does not qualify for rewards. 
 
 
 ## Reward Mechanism
