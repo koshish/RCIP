@@ -35,7 +35,6 @@ Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Devel
 
 When the max supply hits 11,000,000 RECAP tokens, network will run only on "News" submission fee and "Advertisement" submission fee.
 
-## Why Zilliqa?
 
 ## Community Ecosystem
 * News Writers: Anyone who submits news or article or review contents for publication is called News Writer. Each news writer gets reward based on Trust Score of news article.
