@@ -32,6 +32,8 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 ## Community Ecosystem
 
 ## Reward Mechanism
+Since RECAP tokens are rewards to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
+* News Writers:
 
 ## Smart Contract Details
 
