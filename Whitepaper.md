@@ -47,7 +47,7 @@ All submitted news articles are validated and assigned a final Trust Score withi
 a) It must have Trust Score of 50% or more.
 b) It must have passed 7 days period of publication before Weekly Reward Distribution is triggered.
 
-Weekly reward pool = 40% of (minted + fee collected) = 13,200 RECAP + 40% of Collected fee
+Weekly Writers Reward Pool = 40% of (minted + fee collected) = 13,200 RECAP + 40% of Collected fee
 
 | Trust Score  | Weekly Rewards Pool %  | Weekly Rewards Pool (RECAP)   | Distribution  |
 | ------------ | ---------------------- | ----------------------------- | :-----------: |
@@ -57,11 +57,24 @@ Weekly reward pool = 40% of (minted + fee collected) = 13,200 RECAP + 40% of Col
 | 81% - 90%    | 25%                    | 3300 RECAP  +  fee            |  Equal        |
 | 91% - 100%   | 40%                    | 5280 RECAP  +  fee            |  Equal        |
 
-If there is no articles in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
+If there is no article in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
 <i><b>Rewards of validators based on profile score</i></b>
+Any wallet with 10000 RECAP token can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
 
+While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When weekly rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive RECAP tokens.
 
+Weekly Validator Reward Pool = 40% of (minted + fee collected) = 13,200 RECAP + 40% of Collected fee
+
+| Profile Score  | Weekly Rewards Pool %  | Weekly Rewards Pool (RECAP)   | Distribution  |
+| -------------- | ---------------------- | ----------------------------- | :-----------: |
+| 50% - 60%      | 5%                     | 660  RECAP  +  fee            |  Equal        |
+| 61% - 70%      | 10%                    | 1320 RECAP  +  fee            |  Equal        |
+| 71% - 80%      | 20%                    | 2640 RECAP  +  fee            |  Equal        |
+| 81% - 90%      | 25%                    | 3300 RECAP  +  fee            |  Equal        |
+| 91% - 100%     | 40%                    | 5280 RECAP  +  fee            |  Equal        |
+
+If there is no validator wallet in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Validator of the Week" based on community vote.
 
 ## Smart Contract Details
 
