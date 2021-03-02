@@ -33,7 +33,9 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 
 ## Reward Mechanism
 Since RECAP tokens are rewards to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
-* News Writers:
+* News Writers: Anyone who submits news or article or review contents for publication is called News Writer. Each news writer gets reward based on Trust Score of news article.
+* Validators: Anyone who participates in validation of news content and advertisements is called Validator. Each validator gets reward based on Profile Score.
+* Developers: Anyone who is a member of core team working on RECAP protocol is called Developer. Reward received in developer wallet is used for growth of RECAP ecosystem.
 
 ## Smart Contract Details
 
