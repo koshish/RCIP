@@ -50,7 +50,7 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 ## Reward Mechanism
 Since RECAP tokens are rewarded to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
 
-<i><b>Rewards of writers based on trust score of news articles</i></b>
+<i><b>Rewards of writers based on trust score of news articles</i></b><br>
 All submitted news articles are validated and assigned a final Trust Score within 7 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
 a) It must have Trust Score of 50% or more.
 b) It must have passed 7 days period of publication before Weekly Reward Distribution is triggered.
@@ -67,7 +67,7 @@ Weekly Writers Reward Pool = 40% of (minted + fee collected) = 13,200 RECAP + 40
 
 If there is no article in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
-<i><b>Rewards of validators based on profile score</i></b>
+<i><b>Rewards of validators based on profile score</i></b><br>
 Any wallet with 10000 RECAP token can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When weekly rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive RECAP tokens.
