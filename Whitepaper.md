@@ -48,7 +48,7 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 
 
 ## Reward Mechanism
-Since RECAP tokens are rewards to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
+Since RECAP tokens are rewarded to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
 
 <i><b>Rewards of writers based on trust score of news articles</i></b>
 All submitted news articles are validated and assigned a final Trust Score within 7 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
