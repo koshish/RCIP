@@ -94,11 +94,25 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 
 
 ## Roadmap
->This will be updated very soon ....
+>The brainstorming on this idea of decentralized news portal happened in March 2020 between Krishna & Anil. Initially the plan was to work on "Reviews" sector but later the team pivoted and focused on News sector. Between March 2020 and Feb 2021, a lot of paperworks and documentations were done. To build a working prototype, team decided to fork DASH blockchain and implement all the changes to fit RECAP ecosystem. With this successful prototype, we have a lot of plans ahead to launch on Zilliqa mainnet and achieive various milestones.
+
+| Phase ID                        |       Goals & Milestones                                   |       Tentative Dates        |
+| ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
+| Prototype                       | Validate use cases and analyze feedback from community     | March 20th - Feb 28th  2021  |
+|                                 | Team building and fund raising                             |                              |
+|                                 | Fork DASH and implement RECAP ecosystem                    |                              |
+|                                 | Launch CoinDesk Nepal & BuzzerNepal                        |                              |
+|                                 | Finalize v.1 Whitepaper based on prototype development     |                              |
+| ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
+| Mainnet on Zilliqa.             | Launch RECAP token on Zilliqa testnet & mainnet            | March 1st - May 30th 2021    |
+|                                 | Write smart contract for Reward mechanism.                 |                              |
+|                                 | Launch CoinDesk Nepal & BuzzerNepal with RECAP mainnet     |                              |
+|                                 |                                                            |                              |
+
 
 
 ## Team
-Review Capital is a 7 members team like 7 colors of a rainbow.
+Review Capital is currently a 7 members team.
 
 | [Anil Sapkota](https://github.com/anilsapkota)| [Bibek Poudel](https://github.com/bibekpoudel) | [Krishna Dahal](https://github.com/krishnadahal) | [Sajan Shrestha](https://github.com/Sajan486) | [Roshan Thalal](https://github.com/Roshanthalal13) | [Raymex](https://github.com/) | [Madhu Mahat](https://github.com/)
 | :-----------------------------------------: | :--------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
