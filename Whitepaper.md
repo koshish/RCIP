@@ -68,7 +68,7 @@ Weekly Writers Reward Pool = 40% of (minted + fee collected) = 13,200 RECAP + 40
 If there is no article in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
 <i><b>Rewards of validators based on profile score</i></b><br>
-Any wallet with 10000 RECAP token can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
+Any wallet with 1000 RECAP token can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When weekly rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive RECAP tokens.
 
