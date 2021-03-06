@@ -22,17 +22,17 @@ Review Capital focuses on building decentralized news portal built on Zilliqa bl
 * Reward Distribution Process
 
 ## Tokenomics of RECAP
-Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 RECAP token to submit an article and 100 RECAP tokens to submit an advertisement. Every week, 33k RECAP tokens are minted for rewards until the supply of 11 millions RECAP lasts. These newly minted RECAP tokens are distributed on weekly basis. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
+Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 1 RECAP token to submit an article and 10 - 1 RECAP tokens to submit an advertisement. Every 10-2x-2000 (nth time period) published & validated contents (articles), 10k RECAP tokens are minted for rewards until the supply of 11 millions RECAP lasts. These newly minted RECAP tokens are distributed on weekly basis. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
 
 Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. If there exists no writers or validators in any week, the unpaid token goes to developers' wallet.
 
 
-| Phases   | Involved Parties                          | Token Supply (RECAP)    | Percentage Own |
-| -------- | ----------------------------------------- | ----------------------- | :-----------:  |
-| Minting  | News Writers                              | 13,200 Weekly           |      40%       |
-| Minting  | Validators                                | 13,200 Weekly           |      40%       |
-| Minting  | Team Development                          |  6,600 Weekly           |      20%       |
-|          | Max Supply                                | 11,000,000              |     100%       |
+| Phases   | Involved Parties                          | Token Supply (RECAP)             | Percentage Own |
+| -------- | ----------------------------------------- | -----------------------          | :-----------:  |
+| Minting  | News Writers                              | 400 per article (4000)           |      40%       |
+| Minting  | Validators                                | 400 per validated article (4000) |      40%       |
+| Minting  | Team Development                          |  2,000 per reward cycle          |      20%       |
+|          | Max Supply                                | 11,000,000                       |     100%       |
 
 When the max supply hits 11,000,000 RECAP tokens, network will run only on "News" submission fee and "Advertisement" submission fee.
 
@@ -55,15 +55,15 @@ All submitted news articles are validated and assigned a final Trust Score withi
 a) It must have Trust Score of 50% or more.
 b) It must have passed 7 days period of publication before Weekly Reward Distribution is triggered.
 
-Weekly Writers Reward Pool = 40% of (minted + fee collected) = 13,200 RECAP + 40% of Collected fee
+Weekly Writers Reward Pool = 40% of (minted + fee collected) = 1320 RECAP + 40% of Collected fee
 
-| Trust Score  | Weekly Rewards Pool %  | Weekly Rewards Pool (RECAP)   | Distribution  |
-| ------------ | ---------------------- | ----------------------------- | :-----------: |
-| 50% - 60%    | 5%                     | 660  RECAP  +  fee            |  Equal        |
-| 61% - 70%    | 10%                    | 1320 RECAP  +  fee            |  Equal        |
-| 71% - 80%    | 20%                    | 2640 RECAP  +  fee            |  Equal        |
-| 81% - 90%    | 25%                    | 3300 RECAP  +  fee            |  Equal        |
-| 91% - 100%   | 40%                    | 5280 RECAP  +  fee            |  Equal        |
+| Trust Score  | Weekly Rewards Pool %  |  Weekly Rewards Pool (RECAP) | Distribution  |
+| ------------ | ---------------------- | ---------------------------- | :-----------: |
+| 50% - 60%    | 5%                     | 50  RECAP  +  fee            |  Equal        |
+| 61% - 70%    | 10%                    | 100  RECAP  +  fee           |  Equal        |
+| 71% - 80%    | 20%                    | 200  RECAP  +  fee           |  Equal        |
+| 81% - 90%    | 25%                    | 300  RECAP  +  fee           |  Equal        |
+| 91% - 100%   | 40%                    | 400 RECAP per article + fee  |  Equal        |
 
 If there is no article in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
