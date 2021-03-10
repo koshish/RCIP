@@ -44,11 +44,11 @@ Remaining 500K RECAP will be distributed for beta Writers, beta Validators and T
 
 | Phases             | Involved Parties               | Token Supply (RECAP)  | Percentage Own | Phase Period            |
 | ------------------ | ------------------------------ | ----------------------| :-----------:  | :---------------------: |
-| Minting - Initial  | News Writers                   | 200,000               |      20%       | Token Deployment.       |
-| Minting - Initial  | Validators                     | 200,000               |      20%       | Token Deployment.       |
+| Minting - Initial  | News Writers                   | 100,000               |      10%       | Token Deployment.       |
+| Minting - Initial  | Validators                     | 100,000               |      10%       | Token Deployment.       |
 | Minting - Initial  | Team Development               | 100,000               |      10%       | Token Deployment.       |
-| Minting - Initial  | Private Sell                   | 250,000               |      25%       | Token Deployment.       | 
-| Minting - Initial  | Zilswap Liquidity              | 250,000               |      25%       | Token Deployment.       |
+| Minting - Initial  | Private Sell                   | 350,000               |      35%       | Token Deployment.       | 
+| Minting - Initial  | Zilswap Liquidity              | 350,000               |      35%       | Token Deployment.       |
 
 
 Once project goes live with validator app and governance, remaining 10 million RECAP tokens are minted based on reward cycle.
