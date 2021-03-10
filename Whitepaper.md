@@ -26,16 +26,16 @@ Review Capital will operate in RECAP token with max supply of 11 millions RECAP 
 
 Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. There will be no tokens minted until X numbers of articles are validated in defined period.
 
-Max supply cap = 11 million RECAP
-Decimals = 12
-Minting process = X number of validated articles per cycle
-Per cycle RECAP minting = fixed 10k RECAP until max cap
-Distribution: 40% : 40% : 20% for writer/validator/developer
+Max supply cap = 11 million RECAP <br>
+Decimals = 12<br>
+Minting process = X number of validated articles per cycle<br>
+Per cycle RECAP minting = fixed 10k RECAP until max cap<br>
+Distribution: 40% : 40% : 20% for writer/validator/developer<br>
 
-Inflation phase period change: Every 657,000 blocks (approx. 1 year block time)
-Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 7 years)
-Cost fee of article submission = 10 - 0.1 (it goes down every block year until 0.1)
-Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)
+Inflation phase period change: Every 657,000 blocks (approx. 1 year block time)<br>
+Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 7 years)<br>
+Cost fee of article submission = 10 - 0.1 (it goes down every block year until 0.1)<br>
+Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)<br>
 
 
 
