@@ -42,6 +42,17 @@ There will an initial minting of 1 million RECAP token to kickstart the beta pha
 250K RECAP will be private sold to raise liquidity to supply 250k RECAP in Zilswap.<br>
 Remaining 500K RECAP will be distributed for beta Writers, beta Validators and Team in same ratio of 2:2:1 <br>
 
+| Phases             | Involved Parties               | Token Supply (RECAP)  | Percentage Own | Phase Period            |
+| ------------------ | ------------------------------ | ----------------------| :-----------:  | :---------------------: |
+| Minting - Initial  | News Writers                   | 200,000               |      20%       | Token Deployment.       |
+| Minting - Initial  | Validators                     | 200,000               |      20%       | Token Deployment.       |
+| Minting - Initial  | Team Development               | 100,000               |      10%       | Token Deployment.       |
+| Minting - Initial  | Private Sell                   | 250,000               |      50%       | Token Deployment.       | 
+| Minting - Initial  | Zilswap Liquidity              | 250,000               |      50%       | Token Deployment.       |
+
+
+Once project goes live with validator app and governance, remaining 10 million RECAP tokens are minted based on reward cycle.
+
 
 | Phases             | Involved Parties               | Token Supply (RECAP)                | Percentage Own | Phase Period            |
 | ------------------ | ------------------------------ | ----------------------------------- | :-----------:  | :---------------------: |
