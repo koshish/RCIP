@@ -22,9 +22,21 @@ Review Capital focuses on building decentralized news portal built on Zilliqa bl
 * Reward Distribution Process
 
 ## Tokenomics of RECAP
-Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 1 RECAP token to submit an article and 10 - 1 RECAP tokens to submit an advertisement. Every 10-2x-2000 (nth time period) published & validated contents (articles), 10k RECAP tokens are minted for rewards until the supply of 11 millions RECAP lasts. These newly minted RECAP tokens are distributed on cycle basis. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
+Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 - 1 RECAP token to submit an article and 10 RECAP tokens to submit an advertisement. 10k RECAP tokens are minted per rewards cycle until the supply of 11 millions RECAP lasts. Reward minting triggers after CERTAIN number of published articles get validation. These newly minted RECAP tokens are distributed to writers, validators and developers. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
 
-Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. If there exists no writers or validators, there will be no tokens minted until 10 articles are validated in intial period.
+Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. There will be no tokens minted until X numbers of articles are validated in defined period.
+
+Max supply cap = 11 million RECAP
+Decimals = 12
+Minting process = X number of validated articles per cycle
+Per cycle RECAP minting = fixed 10k RECAP until max cap
+Distribution: 40% : 40% : 20% for writer/validator/developer
+
+Inflation phase period change: Every 657,000 blocks (approx. 1 year block time)
+Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 7 years)
+Cost fee of article submission = 10 - 0.1 (it goes down every block year until 0.1)
+Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)
+
 
 
 | Phases             | Involved Parties               | Token Supply (RECAP)                | Percentage Own | Phase Period            |
@@ -32,6 +44,7 @@ Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Devel
 | Minting - Phase 0  | News Writers                   | 4,000 per 10 articles reward cycle  |      40%       | 0-1 year block time     |
 | Minting - Phase 0  | Validators                     | 4,000 per 10 articles reward cycle  |      40%       | 0-1 year block time     |
 | Minting - Phase 0  | Team Development               | 2,000 per 10 articles reward cycle  |      20%       | 0-1 year block time     |
+|                    |                                |                                     |                |                         |
 | Minting - Phase 1  | News Writers                   | 4,000 per 20 articles reward cycle  |      40%       | 1-2 year block time     |
 | Minting - Phase 1  | Validators                     | 4,000 per 20 articles reward cycle  |      40%       | 1-2 year block time     |
 | Minting - Phase 1  | Team Development               | 2,000 per 20 articles reward cycle  |      20%       | 1-2 year block time     |
