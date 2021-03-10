@@ -37,6 +37,10 @@ Number of validated article to trigger minting = 10 - 1280  (it goes double ever
 Cost fee of article submission = 10 - 0.1 (it goes down every block year until 0.1)<br>
 Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)<br>
 
+<br>Initial Minting</br>
+There will an initial minting of 1 million RECAP token to kickstart the beta phase of project. <br>
+250K RECAP will be private sold to raise liquidity to supply 250k RECAP in Zilswap.<br>
+Remaining 500K RECAP will be distributed for beta Writers, beta Validators and Team in same ratio of 2:2:1 <br>
 
 
 | Phases             | Involved Parties               | Token Supply (RECAP)                | Percentage Own | Phase Period            |
