@@ -33,25 +33,22 @@ Per cycle RECAP minting = fixed 10k RECAP until max cap<br>
 Distribution: 40% : 40% : 20% for writer/validator/developer<br>
 
 Inflation phase period change: Every 657,000 blocks (approx. 1 year block time)<br>
-Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 7 years)<br>
-Cost fee of article submission = 10 - 0.1 (it goes down every block year until 0.1)<br>
+Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 8 years)<br>
+Cost fee of article submission = 10 - 0.10 (it goes down every block year until 0.1)<br>
 Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)<br>
 
 <br>Initial Minting</br>
-There will an initial minting of 1 million RECAP token to kickstart the beta phase of project. <br>
-250K RECAP will be private sold to raise liquidity to supply 250k RECAP in Zilswap.<br>
-Remaining 500K RECAP will be distributed for beta Writers, beta Validators and Team in same ratio of 2:2:1 <br>
+There will an initial minting of 200k RECAP token to kickstart the beta phase of project. <br>
+100k RECAP will be used to provide liquidity in Zilswap.<br>
+Remaining 100K RECAP will be distributed for beta Writers, beta Validators and early adopters. <br>
 
 | Phases             | Involved Parties               | Token Supply (RECAP)  | Percentage Own | Phase Period            |
 | ------------------ | ------------------------------ | ----------------------| :-----------:  | :---------------------: |
-| Minting - Initial  | News Writers                   | 100,000               |      10%       | Token Deployment.       |
-| Minting - Initial  | Validators                     | 100,000               |      10%       | Token Deployment.       |
-| Minting - Initial  | Team Development               | 100,000               |      10%       | Token Deployment.       |
-| Minting - Initial  | Private Sell                   | 350,000               |      35%       | Token Deployment.       | 
-| Minting - Initial  | Zilswap Liquidity              | 350,000               |      35%       | Token Deployment.       |
+| Minting - Initial  | Beta Phase Development         | 100,000               |      50%       | Token Deployment.       | 
+| Minting - Initial  | Zilswap Liquidity              | 100,000               |      50%       | Token Deployment.       |
 
 
-Once project goes live with validator app and governance, remaining 10 million RECAP tokens are minted based on reward cycle.
+Once project goes live with validator app and governance, remaining 10.8 million RECAP tokens are minted based on reward cycle.
 
 
 | Phases             | Involved Parties               | Token Supply (RECAP)                | Percentage Own | Phase Period            |
@@ -87,15 +84,19 @@ All submitted news articles are validated and assigned a final Trust Score withi
 a) It must have Trust Score of 50% or more.
 b) Platform must have 10 validated articles in start period before cycle Reward Distribution is triggered.
 
-Weekly Writers Reward Pool = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
+**** Edit required below / Bibek P *****
+Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
+                                = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
+                                = 
+                           
 
 | Trust Score  | Cycle Fee Pool %.      |  Cycle Rewards Pool (RECAP)  | Distribution  |
 | ------------ | ---------------------- | ---------------------------- | :-----------: |
-| 50% - 60%    | 5%                     | 50  RECAP per article + fee  |  Equal        |
-| 61% - 70%    | 10%                    | 100 RECAP per article + fee  |  Equal        |
-| 71% - 80%    | 20%                    | 200 RECAP per article + fee  |  Equal        |
-| 81% - 90%    | 25%                    | 300 RECAP per article + fee  |  Equal        |
-| 91% - 100%   | 40%                    | 400 RECAP per article + fee  |  Equal        |
+| 50% - 60%    | 5%                     |     RECAP  + fee             |  Equal        |
+| 61% - 70%    | 10%                    |     RECAP + fee              |  Equal        |
+| 71% - 80%    | 20%                    |     RECAP + fee              |  Equal        |
+| 81% - 90%    | 25%                    |     RECAP + fee              |  Equal        |
+| 91% - 100%   | 40%                    |     RECAP  + fee             |  Equal        |
 
 If there is no article in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
@@ -122,7 +123,6 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 ## Products & Partners of Review Capital
 * Review Capital
 * BuzzerNepal
-* CoinDeskNepal
 
 
 ## Roadmap
@@ -133,12 +133,12 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 | Prototype                       | Validate use cases and analyze feedback from community     | March 20th - Feb 28th  2021  |
 |                                 | Team building and fund raising                             |                              |
 |                                 | Fork DASH and implement RECAP ecosystem                    |                              |
-|                                 | Launch CoinDesk Nepal & BuzzerNepal                        |                              |
+|                                 | Launch BuzzerNepal                                         |                              |
 |                                 | Finalize v.1 Whitepaper based on prototype development     |                              |
 | ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
 | Mainnet on Zilliqa.             | Launch RECAP token on Zilliqa testnet & mainnet            | March 1st - May 30th 2021    |
 |                                 | Write smart contract for Reward mechanism.                 |                              |
-|                                 | Launch CoinDesk Nepal & BuzzerNepal with RECAP mainnet     |                              |
+|                                 | Launch BuzzerNepal with RECAP mainnet                      |                              |
 |                                 |                                                            |                              |
 
 
