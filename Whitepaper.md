@@ -89,6 +89,32 @@ Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP +
                                 = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
                                 = 
                            
+1 Reward cycle will accommodate 10 validated articles.
+ 
+An article will be categorized into 5 groups based on the trust score they receive in order for the reward to be distributed. 
+
+These rewards will be:
+
+| Trust Score  | Reward    |
+|--------------|----------- 
+| 50%- 59%.    | 50 RECAP  |
+| 60%- 69%.    | 100 RECAP |
+| 70%- 79%.    | 200 RECAP |
+| 80%- 89%.    | 300 RECAP |
+| 90%- 100%.   | 400 RECAP |
+   
+
+The highest reward - 400 RECAP goes to articles falling in the group with trust score of 90%-100% and the lowest 50 RECAP goes to the ones in with trust trust score of 50%-59%.
+
+4000 RECAP will be minted before a new reward cycle for the articles. This number represents the maximum possible reward distribution scenario.
+
+For example: If 10 out of 10 articles in a reward cycle fall in the 90%-100% group, the total reward to be distributed would be 4000. Therefore, since all other scenarios would result in the total amount less than that, there would be enough amount for reward distribution.
+
+
+
+
+Validator
+
 
 | Trust Score  | Cycle Fee Pool %.      |  Cycle Rewards Pool (RECAP)  | Distribution  |
 | ------------ | ---------------------- | ---------------------------- | :-----------: |
