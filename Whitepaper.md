@@ -170,7 +170,7 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 
 
 ## Team
-Review Capital is currently a 7 members team.
+Review Capital has 7 board members in core team.
 
 | [Anil Sapkota](https://github.com/anilsapkota)| [Bibek Poudel](https://github.com/bibekpoudel) | [Krishna Dahal](https://github.com/krishnadahal) | [Sajan Shrestha](https://github.com/Sajan486) | [Roshan Thalal](https://github.com/Roshanthalal13) | [Raymex](https://github.com/) | [Madhu Mahat](https://github.com/)
 | :-----------------------------------------: | :--------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
