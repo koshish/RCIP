@@ -172,10 +172,6 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 ## Team
 Review Capital has 7 board members in core team.
 
-| [Anil Sapkota](https://github.com/anilsapkota)| [Bibek Poudel](https://github.com/bibekpoudel) | [Krishna Dahal](https://github.com/krishnadahal) | [Sajan Shrestha](https://github.com/Sajan486) | [Roshan Thalal](https://github.com/Roshanthalal13) | [Raymex](https://github.com/) | [Madhu Mahat](https://github.com/)
-| :-----------------------------------------: | :--------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
-| [<img src="https://avatars.githubusercontent.com/u/45574896?s=400&v=4" width = "200" />](https://github.com/anilsapkota) | [<img src="https://avatars1.githubusercontent.com/u/11076269?s=400&u=57b092f2c24186f5bf2f33c2670ee05c01593199&v=4" width = "200" />](https://github.com/bibekpoudel) | [<img src="https://avatars2.githubusercontent.com/u/16268113?s=400&u=daefab0159b4f8f0afd9fc2d92fd723d2f7aa413&v=4" width = "200" />](https://github.com/krishnadahal) | [<img src="https://avatars.githubusercontent.com/u/27304818?s=400&u=67ac8920a176141618875d874b38cefa995e0cf2&v=4" width = "200" />](https://github.com/Sajan486) | [<img src="https://avatars.githubusercontent.com/u/42624428?s=400&v=4" width = "200" />](https://github.com/Roshanthalal13)
-
 
 
 
