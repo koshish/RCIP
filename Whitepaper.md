@@ -84,7 +84,7 @@ All submitted news articles are validated and assigned a final Trust Score withi
 a) It must have Trust Score of 50% or more.
 b) Platform must have 10 validated articles in start period before cycle Reward Distribution is triggered.
 
-**** Edit required  *****
+** Edit required  ***
 Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
                                 = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
                                 = 
