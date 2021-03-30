@@ -37,7 +37,8 @@ Number of validated article to trigger minting = 10 - 1280  (it goes double ever
 Cost fee of article submission = 10 - 0.10 (it goes down every block year until 0.1)<br>
 Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)<br>
 
-<br>Initial Minting</br>
+<b><br>Initial Minting</br></b>
+
 There will an initial minting of 200k RECAP token to kickstart the beta phase of project. <br>
 100k RECAP will be used to provide liquidity in Zilswap.<br>
 Remaining 100K RECAP will be distributed for beta Writers, beta Validators and early adopters. <br>
@@ -84,7 +85,6 @@ All submitted news articles are validated and assigned a final Trust Score withi
 a) It must have Trust Score of 50% or more.
 b) Platform must have 10 validated articles in start period before cycle Reward Distribution is triggered.
 
-** Edit required  ***
 Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
                                 = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
                                 
@@ -93,7 +93,6 @@ Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP +
  
 An article will be categorized into 5 groups based on the trust score they receive in order for the reward to be distributed. 
 
-These rewards will be:
 
 | Trust Score  | Cycle Fee Pool %.   |  Cycle Rewards Pool (RECAP)     | Distribution  |
 | ------------ | ------------------- | ------------------------------- | :-----------: |
