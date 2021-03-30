@@ -87,44 +87,30 @@ b) Platform must have 10 validated articles in start period before cycle Reward 
 ** Edit required  ***
 Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
                                 = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
-                                = 
+                                
                            
-1 Reward cycle will accommodate 10 validated articles.
+1 Reward cycle will accommodate 10 validated articles in Phase 0.
  
 An article will be categorized into 5 groups based on the trust score they receive in order for the reward to be distributed. 
 
 These rewards will be:
 
-| Trust Score  | Reward    |
-|--------------|----------- 
-| 50%- 59%.    | 50 RECAP  |
-| 60%- 69%.    | 100 RECAP |
-| 70%- 79%.    | 200 RECAP |
-| 80%- 89%.    | 300 RECAP |
-| 90%- 100%.   | 400 RECAP |
-   
+| Trust Score  | Cycle Fee Pool %.   |  Cycle Rewards Pool (RECAP)     | Distribution  |
+| ------------ | ------------------- | ------------------------------- | :-----------: |
+| 50% - 60%    | 5%                  |     25 RECAP per article + fee  |  Equal        |
+| 61% - 70%    | 10%                 |     50 RECAP per article + fee  |  Equal        |
+| 71% - 80%    | 20%                 |    100 RECAP per article + fee  |  Equal        |
+| 81% - 90%    | 25%                 |    200 RECAP per article + fee  |  Equal        |
+| 91% - 100%   | 40%                 |    400 RECAP per article + fee  |  Equal        |
 
-The highest reward - 400 RECAP goes to articles falling in the group with trust score of 90%-100% and the lowest 50 RECAP goes to the ones in with trust trust score of 50%-59%.
+  
 
-4000 RECAP will be minted before a new reward cycle for the articles. This number represents the maximum possible reward distribution scenario.
+The highest reward - 400 RECAP goes to articles falling in the group with trust score of 90%-100% and the lowest 25 RECAP goes to the one with trust score of 50%-59%.
 
-For example: If 10 out of 10 articles in a reward cycle fall in the 90%-100% group, the total reward to be distributed would be 4000. Therefore, since all other scenarios would result in the total amount less than that, there would be enough amount for reward distribution.
+4000 RECAP will be minted in a new reward cycle for the articles. This number represents the maximum possible reward distribution scenario in Phase 0.
 
+For example: If 10 out of 10 articles in a reward cycle fall in the 90%-100% group, the total reward to be distributed would be 4000. Therefore, since all other scenarios would result in the total amount less than that, there would be enough amount for reward distribution. Unspent RECAP will be reserved for writer's development and marketing proposes
 
-
-
-Validator
-
-
-| Trust Score  | Cycle Fee Pool %.      |  Cycle Rewards Pool (RECAP)  | Distribution  |
-| ------------ | ---------------------- | ---------------------------- | :-----------: |
-| 50% - 60%    | 5%                     |     RECAP  + fee             |  Equal        |
-| 61% - 70%    | 10%                    |     RECAP + fee              |  Equal        |
-| 71% - 80%    | 20%                    |     RECAP + fee              |  Equal        |
-| 81% - 90%    | 25%                    |     RECAP + fee              |  Equal        |
-| 91% - 100%   | 40%                    |     RECAP  + fee             |  Equal        |
-
-If there is no article in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward "Writer of the Week" based on community vote.
 
 <i><b>Rewards of validators based on profile score</i></b><br>
 Any wallet with 1000 RECAP token can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
@@ -133,13 +119,13 @@ While these checks build up a "Trust Score" for a news article, the accuracy of 
 
 Cycle Validator Reward Pool = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
 
-| Profile Score  | Weekly Rewards Pool %  | Weekly Rewards Pool (RECAP)   | Distribution  |
-| -------------- | ---------------------- | ----------------------------- | :-----------: |
-| 50% - 60%      | 5%                     | 50  RECAP per article + fee   |  Equal        |
-| 61% - 70%      | 10%                    | 100 RECAP per article + fee   |  Equal        |
-| 71% - 80%      | 20%                    | 200 RECAP per article + fee   |  Equal        |
-| 81% - 90%      | 25%                    | 300 RECAP per article + fee   |  Equal        |
-| 91% - 100%     | 40%                    | 400 RECAP per article + fee   |  Equal        |
+| Profile Score  | Cycle Fee Pool %  | Weekly Rewards Pool (RECAP) | Distribution  |
+| -------------- | ----------------- | --------------------------- | :-----------: |
+| 50% - 60%      | 5%                |  25 RECAP per cycle + fee   |  Equal        |
+| 61% - 70%      | 10%               |  50 RECAP per cycle + fee   |  Equal        |
+| 71% - 80%      | 20%               | 100 RECAP per cycle + fee   |  Equal        |
+| 81% - 90%      | 25%               | 200 RECAP per cycle + fee   |  Equal        |
+| 91% - 100%     | 40%               | 400 RECAP per cycle + fee   |  Equal        |
 
 If there is no validator wallet in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward community events based on community vote.
 
@@ -161,10 +147,13 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 |                                 | Fork DASH and implement RECAP ecosystem                    |                              |
 |                                 | Launch BuzzerNepal                                         |                              |
 |                                 | Finalize v.1 Whitepaper based on prototype development     |                              |
-| ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
+|                                 |                                                            |                              |
 | Mainnet on Zilliqa.             | Launch RECAP token on Zilliqa testnet & mainnet            | March 1st - May 30th 2021    |
 |                                 | Write smart contract for Reward mechanism.                 |                              |
-|                                 | Launch BuzzerNepal with RECAP mainnet                      |                              |
+|                                 | Launch BuzzerNepal Beta Phase with RECAP mainnet           |                              |
+|                                 |                                                            |                              |
+| Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - July 30th 2021    |
+|                                 | Deploy smart contract for Reward mechanism.                |                              |
 |                                 |                                                            |                              |
 
 
