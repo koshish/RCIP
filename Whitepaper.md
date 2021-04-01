@@ -1,5 +1,5 @@
 ## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> Review Capital (RECAP)
-RECAP is a cryptocurrency used in BuzzerNepal and CoinDesk Nepal to decentralize the news portal industry.
+RECAP is a ZRC-2 token used in BuzzerNepal to decentralize the news portal industry.
 
 Last Updated: March 1, 2021
 
