@@ -12,14 +12,16 @@ Last Updated: March 1, 2021
 News industry is one of the most influential market with biggest user count and advertisements revenue. Bringing news industry into blockchain system will decentralize both contents and ad revenue.
 
 ## Decentralized News Portal System
-Review Capital focuses on building decentralized news portal built on Zilliqa blockchain. It runs on censorship-resistant mechanism and gets integrated with ZRC-2 token called RECAP. News articles on this platform are published, validated and circulated without any central authority. Even the advertisement placement goes through decentralized community decision. This will mimick the traditonal news industry into complete end-to-end blockchain system.
+Review Capital focuses on building decentralized news portal built on Zilliqa blockchain. It runs on censorship-resistant mechanism on IPFS and gets integrated with ZRC-2 token called RECAP. News articles on this platform are published, validated and circulated without any central authority. Even the advertisement placement goes through decentralized community decision. This will mimick the traditonal news industry into complete end-to-end blockchain system.
 
 * News Submission Process: Anyone can submit news and track it in smart contract regarding publication, trust score and earnings.
-* News Publication Process: Anyone can become a validator and participates in news publication process in decentralized way.
-* News Validation Process: Community will set up standards based on voting to validate all news.
+* News Publication Process: Anyone can become a validator and participates in news publication process in decentralized way with IPFS.
+* News Validation Process: Community will set up standards based on voting to validate all news with governance portal.
 * Advertisement Submission Process: Anyone can submit advertisements of any kind.
 * Advertisement Placement Process: Validators participate in selection and approval of advertisements similar to news articles.
 * Reward Distribution Process: Smart Contract distributes the rewards to eligible participants.
+
+
 
 ## Tokenomics of RECAP
 Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 - 1 RECAP token to submit an article and 10 RECAP tokens to submit an advertisement. 10k RECAP tokens are minted per rewards cycle until the supply of 11 millions RECAP lasts. Reward minting triggers after CERTAIN number of published articles get validation. These newly minted RECAP tokens are distributed to writers, validators and developers. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
@@ -129,6 +131,7 @@ Cycle Validator Reward Pool = 40% of (minted + fee collected) = 4000 RECAP + 40%
 If there is no validator wallet in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward community events based on community vote.
 
 ## Smart Contract Details
+Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc?network=mainnet
 >This will be updated very soon ....
 
 ## Products & Partners of Review Capital
@@ -158,7 +161,7 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 
 
 ## Team
-Review Capital has 7 board members in core team.
+Review Capital has 6 board members in core team.
 
 
 
