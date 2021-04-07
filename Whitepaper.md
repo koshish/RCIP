@@ -24,7 +24,7 @@ Review Capital focuses on building decentralized news portal built on Zilliqa bl
 
 
 ## Tokenomics of RECAP
-Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 - 1 RECAP token to submit an article and 10 RECAP tokens to submit an advertisement. 10k RECAP tokens are minted per rewards cycle until the supply of 11 millions RECAP lasts. Reward minting triggers after CERTAIN number of published articles get validation. These newly minted RECAP tokens are distributed to writers, validators and developers. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
+Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 - .1 RECAP token to submit an article and 10 RECAP tokens to submit an advertisement. 10k RECAP tokens are minted per rewards cycle until the supply of 11 millions RECAP lasts. Reward minting triggers after CERTAIN number of published articles get validation. These newly minted RECAP tokens are distributed to writers, validators and developers. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
 
 Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. There will be no tokens minted until X numbers of articles are validated in defined period.
 
