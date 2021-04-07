@@ -156,7 +156,9 @@ Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj
 |                                 |                                                            |                              |
 | Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - July 30th 2021    |
 |                                 | Deploy smart contract for Reward mechanism.                |                              |
-|                                 |                                                            |                              |
+|                                 | Develop Onboarding Campaign to bring in Writers and Validators.|                              |
+|                                 | Develop RECAP-exclusive Validation App for the article validation.|                              |
+|                                 | Integrate IPFS and RECAP + ZIL token with News Portal Application.|                             |
 
 
 
