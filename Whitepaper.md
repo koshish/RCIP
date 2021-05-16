@@ -30,14 +30,12 @@ Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Devel
 
 Max supply cap = 11 million RECAP <br>
 Decimals = 12<br>
-Minting process = X number of validated articles per cycle<br>
-Per cycle RECAP minting = fixed 10k RECAP until max cap<br>
+Minting cycle = 1 week<br>
+Per cycle RECAP minting = Fixed 10k RECAP until max cap<br>
 Distribution: 40% : 40% : 20% for writer/validator/developer<br>
 
-Inflation phase period change: Every 657,000 blocks (approx. 1 year block time)<br>
-Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 8 years)<br>
-Cost fee of article submission = 10 - 0.10 (it goes down every block year until 0.1)<br>
-Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)<br>
+Cost fee of article submission = 0.01 (it goes up or down based on the voting)<br>
+Max reward per cycle = 4000 ( 4000 gets distributed amongst the published article within the cycle based on the trust score)<br>
 
 <b><br>Initial Minting</br></b>
 
@@ -54,19 +52,19 @@ Remaining 100K RECAP will be distributed for beta Writers, beta Validators and e
 Once project goes live with validator app and governance, remaining 10.8 million RECAP tokens are minted based on reward cycle.
 
 
-| Phases             | Involved Parties               | Token Supply (RECAP)                | Percentage Own | Phase Period            |
-| ------------------ | ------------------------------ | ----------------------------------- | :-----------:  | :---------------------: |
-| Minting - Phase 0  | News Writers                   | 4,000 per 10 articles reward cycle  |      40%       | 0-1 year block time     |
-| Minting - Phase 0  | Validators                     | 4,000 per 10 articles reward cycle  |      40%       | 0-1 year block time     |
-| Minting - Phase 0  | Team Development               | 2,000 per 10 articles reward cycle  |      20%       | 0-1 year block time     |
-|                    |                                |                                     |                |                         |
-| Minting - Phase 1  | News Writers                   | 4,000 per 20 articles reward cycle  |      40%       | 1-2 year block time     |
-| Minting - Phase 1  | Validators                     | 4,000 per 20 articles reward cycle  |      40%       | 1-2 year block time     |
-| Minting - Phase 1  | Team Development               | 2,000 per 20 articles reward cycle  |      20%       | 1-2 year block time     |
-|                    |                                |                                     |                |                         |
-|                    | Max Supply                     | 11,000,000                          |     100%       |                         |
+| Phases             | Involved Parties               | Token Supply (RECAP)         | Percentage Own | Phase Period            |
+| ------------------ | ------------------------------ | ---------------------------- | :-----------:  | :---------------------: |
+| Minting - Phase 0  | News Writers                   | 4,000 per week reward cycle  |      40%       | 0-1 year block time     |
+| Minting - Phase 0  | Validators                     | 4,000 per week reward cycle  |      40%       | 0-1 year block time     |
+| Minting - Phase 0  | Team Development               | 2,000 per week reward cycle  |      20%       | 0-1 year block time     |
+|                    |                                |                              |                |                         |
+| Minting - Phase 1  | News Writers                   | 4,000 per week reward cycle  |      40%       | 1-2 year block time     |
+| Minting - Phase 1  | Validators                     | 4,000 per week reward cycle  |      40%       | 1-2 year block time     |
+| Minting - Phase 1  | Team Development               | 2,000 per week reward cycle  |      20%       | 1-2 year block time     |
+|                    |                                |                              |                |                         |
+|                    | Max Supply                     | 11,000,000                   |     100%       |                         |
 
-When the max supply hits 11,000,000 RECAP tokens, network will run only on "News" submission fee and "Advertisement" submission fee.
+When the max supply hits 11,000,000 RECAP tokens, network will run only on "News/Articles/Contents" submission fee and "Advertisement" submission fee.
 
 
 ## Community Ecosystem
@@ -91,7 +89,7 @@ Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP +
                                 = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
                                 
                            
-1 Reward cycle will accommodate 10 validated articles in Phase 0.
+1 Reward cycle will be 1 week in Phase 0.
  
 An article will be categorized into 5 groups based on the trust score they receive in order for the reward to be distributed. 
 
