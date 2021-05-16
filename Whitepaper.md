@@ -34,7 +34,7 @@ Decimals = 12<br>
 Minting phase = 2 (Initial & Live phases)<br>
 Initial Minting phase mints 200,000 RECAP only<br>
 Live Minting phase mints 10,000 RECAP each epoch until 11,000,000th RECAP<br>
-Distribution: 40% : 40% : 20% for writer/validator/developer<br>
+Distribution: 40% : 40% : 20% for writer\/validator\/developer<br>
 
 Cost fee of article submission = 0.01 (changes with governance voting)<br>
 Max reward per cycle = 4000 ( 4000 gets distributed amongst the published article within the cycle based on the trust score)<br>
@@ -79,36 +79,35 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 * Developers: Anyone who is a member of core team working on RECAP protocol is called Developer. Reward received in developer wallet is used for growth of RECAP ecosystem.
 
 ## Utilities of RECAP	
-a) Articles submission
-b) Appeal submission
-c) Ads submission
+a) Articles submission.<br>
+b) Appeal submission.<br>
+c) Ads submission.<br>
 
 ## Revenue of RECAP Network	
-Article submission fee = 0.1 RECAP (changes with governance voting)
-Ads submission fee = 10 RECAP (changes with governance voting)
-Appeal submission fee = 10 RECAP (changes with governance voting)
-Ad revenue = varies (in any ZRC token + ZIL accepted)
-Validator Entry Fee = 0 RECAP (changes with governance voting)
-Revenue distribution = 30% to Writers, 30% to Validators, 30% to Holders, 10% to Treasury
+Article submission fee = 0.1 RECAP (changes with governance voting)<br>
+Ads submission fee = 10 RECAP (changes with governance voting)<br>
+Appeal submission fee = 10 RECAP (changes with governance voting)<br>
+Ad revenue = varies (in any ZRC token + ZIL accepted)<br>
+Validator Entry Fee = 0 RECAP (changes with governance voting)<br>
+Revenue distribution = 30% to Writers, 30% to Validators, 30% to Holders, 10% to Treasury<br>
 
 ## Reward Mechanism
 <i><b>Rules of RECAP distribution</i></b><br>	
-a) Writers get rewards based on Trust Score of each article. 
-b) Validators get rewards based on their Profile Score.
-c) Holders get rewards based on their RECAP holding shares.
-d) Developers get rewards as grant for development.
+a) Writers get rewards based on Trust Score of each article.<br> 
+b) Validators get rewards based on their Profile Score.<br>
+c) Holders get rewards based on their RECAP holding shares.<br>
+d) Developers get rewards as grant for development.<br>
 
 Since RECAP tokens are rewarded to 4 parties: News Writers, Validators, RECAP Holders, and Protocol Developers there exists a distribution mechanism for fairness.
 
 <i><b>Rewards of writers based on trust score of news articles</i></b><br>
 All submitted news articles are validated and assigned a final Trust Score within 1 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
-a) It must have Trust Score of 50% or more.
-b) Cycle Reward Distribution is triggered at the end of reward cycle.
+a) It must have Trust Score of 50% or more.<br>
+b) Cycle Reward Distribution is triggered at the end of reward cycle.<br>
 
-Article's reward = {(Trust Score of an article)/(Total Trust score of that Cycle)}*(4000 + 0.3*revenue of that epoch) RECAP
-Eligibility = 50% or more Trust Score + Status: Validation Completed                                
-                           
-1 Reward cycle will be 1 week in Phase 0.
+Article's reward = {(Trust Score of an article)\/(Total Trust score of that Cycle)}\*(4000 + 0.3\*revenue of that epoch) RECAP<br>
+Eligibility = 50% or more Trust Score + Status: Validation Completed<br>                                
+Reward cycle = 1 week in Phase 0<br>
  
 4000 RECAP will be minted in a new reward cycle for the articles. This number represents the maximum possible reward distribution scenario in Phase 0.
 
@@ -117,19 +116,20 @@ Any wallet with 1000 RECAP token can become a Validator. When news articles are 
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive RECAP tokens.
 
-Cycle Validator's reward = {(Profile Score of a validator)/(Total Profile Score of that Cycle article wise)}*(4000 + 0.3*revenue of that epoch) RECAP
-Eligibility = 1000 RECAP; 50% or more Profile Score + Status: Active (might be penalized/blacklisted/lower than 1000 RECAP)
+Cycle Validator's reward = {(Profile Score of a validator)\/(Total Profile Score of that Cycle article wise)}\*(4000 + 0.3\*revenue of that epoch) RECAP<br>
+Eligibility = 1000 RECAP; 50% or more Profile Score + Status: Active (might be penalized\/blacklisted\/lower than 1000 RECAP)<br>
 
 If there is no validator wallet in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward community events based on community vote.
 
 <i><b>Rewards for RECAP holders</i></b><br>
 Any RECAP holder who provides liquidity to the RECAP liquidity pool will be eligible to get holder's reward.
 
-Holder's reward = (% share of wallet)*(0.3*revenue of that epoch) RECAP
+Holder's reward = (% share of wallet)\*(0.3\*revenue of that epoch) RECAP<br>
 
 <i><b>RECAP Treasury</i></b><br>
 10% of the revenue collected in that epoch goes to treasury, which can be used for expenses such as operating cost, marketing, development, etc.
-Treasury = (0.1*revenue of that epoch) RECAP
+
+Treasury = (0.1\*revenue of that epoch) RECAP<br>
 
 ## Smart Contract Details
 Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc?network=mainnet
