@@ -43,7 +43,7 @@ Max reward per cycle = 4000 ( 4000 gets distributed amongst the published articl
 
 There will an initial minting of 200k RECAP token to kickstart the beta phase of project. <br>
 100k RECAP will be used to provide liquidity in Zilswap.<br>
-Remaining 100K RECAP will be distributed for beta Writers, beta Validators and early adopters. <br>
+Remaining 100K RECAP will be distributed for beta Writers, beta Validators and developers. <br>
 
 | Phases             | Involved Parties               | Token Supply (RECAP)  | Percentage Own | Phase Period            |
 | ------------------ | ------------------------------ | ----------------------| :-----------:  | :---------------------: |
@@ -95,7 +95,7 @@ Revenue distribution = 30% to Writers, 30% to Validators, 30% to Holders, 10% to
 <i><b>Rules of RECAP distribution</i></b><br>	
 a) Writers get rewards based on Trust Score of each article.<br> 
 b) Validators get rewards based on their Profile Score.<br>
-c) Holders get rewards based on their RECAP holding shares.<br>
+c) Holders get rewards based on their holding shares in RECAP liquidity pool.<br>
 d) Developers get rewards as grant for development.<br>
 
 Since RECAP tokens are rewarded to 4 parties: News Writers, Validators, RECAP Holders, and Protocol Developers there exists a distribution mechanism for fairness.
@@ -124,7 +124,7 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 <i><b>Rewards for RECAP holders</i></b><br>
 Any RECAP holder who provides liquidity to the RECAP liquidity pool will be eligible to get holder's reward.
 
-Holder's reward = (% share of wallet)\*(0.3\*revenue of that epoch) RECAP<br>
+Holder's reward = (% holding share of RECAP liquidity pool)\*(0.3\*revenue of that epoch) RECAP<br>
 
 <i><b>RECAP Treasury</i></b><br>
 10% of the revenue collected in that epoch goes to treasury, which can be used for expenses such as operating cost, marketing, development, etc.
@@ -133,7 +133,6 @@ Treasury = (0.1\*revenue of that epoch) RECAP<br>
 
 ## Smart Contract Details
 Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc?network=mainnet
->This will be updated very soon ....
 
 ## Products & Partners of Review Capital
 * Review Capital
