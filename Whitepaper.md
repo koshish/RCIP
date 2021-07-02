@@ -95,7 +95,7 @@ Revenue distribution = 60% to Liquidity Providers, 20% to Protocol Developers, 2
 <i><b>Rules of RECAP distribution</i></b><br>	
 a) Liquidity providers get rewards based on their holding shares in RECAP liquidity pool.<br>
 b) Developers get rewards as grant for development.<br>
-c) Treasury rewards will be will be utilized to provide grants.
+c) Treasury rewards will be will be utilized to provide grants.<br>
 
 Since RECAP tokens are rewarded to 3 parties: Liquidity  Providers, Protocol Developers, and Treasury (Grants) there exists a distribution mechanism for fairness.
 
@@ -154,7 +154,7 @@ Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj
 Review Capital has 6 board members in core team.
 
 ## Tokenomics of Utility Token
-Utility Token will not be having max supply of 10,000 Tokens per epoch. Utility token is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators, protocol developers and treasury (grants). It costs 0.1 Utility token to submit an article and 10 Utility tokens to submit an advertisement. Maximum of 10,000 Utility tokens are minted per rewards cycle. Reward minting triggers at the end of epoch. These newly minted RECAP tokens are distributed to writers, validators, developers and treasury (grants). News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
+Utility Token will be having max supply of 10,000 Tokens per epoch. Utility token is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators, protocol developers and treasury (grants). It costs 0.1 Utility token to submit an article and 10 Utility tokens to submit an advertisement. Maximum of 10,000 Utility tokens are minted per rewards cycle. Reward minting triggers at the end of epoch. These newly minted Utility tokens are distributed to writers, validators, developers and treasury (grants). News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
 
 Tokens are distributed in the ratio of 3:3:2:2 among Writers, Validators, Developers, Treasury. There will be no tokens minted until the end of epoch.
 
@@ -172,27 +172,25 @@ Max reward per cycle = 1 Utility token per article ( 1 token per article gets di
 
 <b><br>Initial Minting</br></b>
 
-There will an initial minting of 400,000 RECAP token to kickstart the beta phase of project. <br>
+There will an initial minting of 400,000 Utility tokens to kickstart the project. <br>
 300,000 Utility token will be sold to public through ZILO.<br>
 Remaining 100,000 Utility token will be kept in Zilswap liquidity pool.<br>
 
-| Phases             | Involved Parties               | Token Supply (RECAP)  | Percentage Own | Phase Period            |
-| ------------------ | ------------------------------ | ----------------------| :-----------:  | :---------------------: |
-| Minting - Initial  | ZILO Sale                      | 300,000               |      75%       | Token Deployment.       | 
-| Minting - Initial  | Zilswap Liquidity              | 100,000               |      25%       | Token Deployment.       |
+| Phases             | Involved Parties               | Token Supply (Utility Token)  | Percentage Own | Phase Period            |
+| ------------------ | ------------------------------ | ----------------------        | :-----------:  | :---------------------: |
+| Minting - Initial  | ZILO Sale                      | 300,000                       |      75%       | Token Deployment.       | 
+| Minting - Initial  | Zilswap Liquidity              | 100,000                       |      25%       | Token Deployment.       |
 
 
-Once project goes live with validator app and governance, remaining 10.8 million RECAP tokens are minted based on reward cycle.
 
-
-| Phases             | Involved Parties               | Allocated Tokens per article per epoch (Utility Token)     |
-| ------------------ | ------------------------------ | ---------------------------------------------------------- |
-| Minting - Live     | News Writers                   | 30%                                                        |
-| Minting - Phase 0  | Validators                     | 30%                                                        |
-| Minting - Phase 0  | Protocol Developer             | 20%                                                        |
-| Minting - Phase 0  | Treasury                       | 20%                                                        |
-|                    |                                |                                                            |
-|                    | Max Minting (Per epoch)        | 10,000                                                     |
+| Phases           | Involved Parties               | Allocated Tokens per article per epoch (Utility Token)     |
+| ---------------- | ------------------------------ | ---------------------------------------------------------- |
+| Minting - Live   | News Writers                   | 30%                                                        |
+| Minting - Live   | Validators                     | 30%                                                        |
+| Minting - Live   | Protocol Developer             | 20%                                                        |
+| Minting - Live   | Treasury                       | 20%                                                        |
+|                  |                                |                                                            |
+|                  | Max Minting (Per epoch)        | 10,000                                                     |
 
 
 ## Community Ecosystem
@@ -202,7 +200,7 @@ Once project goes live with validator app and governance, remaining 10.8 million
 * Validators: Anyone who participates in validation of news content and advertisements is called Validator. Each validator gets reward based on Profile Score.
 >Profile Score: Profile score is a percentage value assigned to each validator after completion of validation task. A validator with less than 50% Profile Score does not qualify for rewards of that article. 
 
-* protocol Developers: Anyone who is a member of core team working on Utility Token protocol is called Developer. Reward received in developer wallet is used for growth of RECAP ecosystem.
+* protocol Developers: Anyone who is a member of core team working on Utility Token protocol is called Developer. Reward received in developer wallet is used for growth of Utility Token ecosystem.
 
 ## Utilities of Utility Token	
 a) Articles submission.<br>
@@ -219,13 +217,13 @@ Revenue distribution = 30% to Writers, 30% to Validators, 20% to Developers, 20%
 Token Burning = 100% of the token collected as a fee through article subission and validation submission will be burned at the end of epoch.
 
 ## Reward Mechanism
-<i><b>Rules of RECAP distribution</i></b><br>	
+<i><b>Rules of Utility Token distribution</i></b><br>	
 a) Writers get rewards based on Trust Score of each article.<br> 
 b) Validators get rewards based on their Profile Score.<br>
-c) Holders get rewards based on their holding shares in RECAP liquidity pool.<br>
-d) Developers get rewards as grant for development.<br>
+c) Developers get rewards as grant for development.<br>
+d) Treasury rewards will be will be utilized to provide grants.
 
-Since RECAP tokens are rewarded to 4 parties: News Writers, Validators, Protocol Developers, and Treasury (grants) there exists a distribution mechanism for fairness.
+Since Utility tokens are rewarded to 4 parties: News Writers, Validators, Protocol Developers, and Treasury (grants) there exists a distribution mechanism for fairness.
 
 <i><b>Rewards of writers based on trust score of news articles</i></b><br>
 All submitted news articles are validated and assigned a final Trust Score within 1 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
@@ -239,7 +237,7 @@ Reward cycle = 1 week <br>
 <i><b>Rewards of validators based on profile score</i></b><br>
 Any wallet can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
 
-While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive RECAP tokens.
+While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive Utility tokens.
 
 Cycle Validator's reward = 0.3*\{(Profile Score of a validator)\/(Total Profile Score of that Cycle article wise)}\*Tokens to be minted in that epoch Utility Token<br>
 Eligibility = 1000 Utility token in Liquidity Pool or 0.01 Utility Token Fees; 50% or more Profile Score + Status: Active <br>
@@ -247,7 +245,7 @@ Eligibility = 1000 Utility token in Liquidity Pool or 0.01 Utility Token Fees; 5
 If there is no validator wallet in any of the group, the allocated rewards goes to Treasury (grant) wallet to randomly reward community events based on community vote.
 
 
-<i><b>Rewards for RECAP Protocol Developers</i></b><br>
+<i><b>Rewards for Utility Token Protocol Developers</i></b><br>
 Core team members of the Utility Token project are considered as the Utility Token protocol developers.
 
 Reward for utility Token Protocol Developers = 0.2\* Tokens to be minted in that epoch Utility Token 
@@ -262,33 +260,6 @@ Any excess tokens will be kept in Treasury.
 
 ## Smart Contract Details
 Token Contract: Coming Soon 
-
-## Products & Partners of utility Token
-* Review Capital
-* BuzzerNepal
-
-
-## Roadmap
->The brainstorming on this idea of decentralized news portal happened in March 2020 between Krishna & Anil. Initially the plan was to work on "Reviews" sector but later the team pivoted and focused on News sector. Between March 2020 and Feb 2021, a lot of paperworks and documentations were done. To build a working prototype, team decided to fork DASH blockchain and implement all the changes to fit RECAP ecosystem. With this successful prototype, we have a lot of plans ahead to launch on Zilliqa mainnet and achieive various milestones.
-
-| Phase ID                        |       Goals & Milestones                                   |       Tentative Dates        |
-| ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
-| Prototype                       | Validate use cases and analyze feedback from community     | March 20th - Feb 28th  2021  |
-|                                 | Team building and fund raising                             |                              |
-|                                 | Fork DASH and implement RECAP ecosystem                    |                              |
-|                                 | Launch BuzzerNepal                                         |                              |
-|                                 | Finalize v.1 Whitepaper based on prototype development     |                              |
-|                                 |                                                            |                              |
-| Mainnet on Zilliqa.             | Launch RECAP token on Zilliqa testnet & mainnet            | March 1st - May 30th 2021    |
-|                                 | Write smart contract for Reward mechanism.                 |                              |
-|                                 | Launch BuzzerNepal Beta Phase with RECAP mainnet           |                              |
-|                                 |                                                            |                              |
-| Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - July 30th 2021    |
-|                                 | Deploy smart contract for Reward mechanism.                |                              |
-|                                 | Develop Onboarding Campaign to bring in Writers and Validators.|                              |
-|                                 | Develop RECAP-exclusive Validation App for the article validation.|                              |
-|                                 | Integrate IPFS and RECAP + ZIL token with News Portal Application.|                             |
-
 
 
 ## Team
