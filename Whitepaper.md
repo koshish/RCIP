@@ -76,17 +76,6 @@ e) Advertisement Currency.<br>
 f) Zilswap RECAP-ZIL and Utility token - ZIL pool.<br>
 
 
-Voting Power	1:1 ratio (1 vote for 1 RECAP)
-Developer's Reward	2000 RECAP per week Epoch + 20% Revenue
-Liquidity Pool Reward	Based on projects: 3000 RECAP per Epoch for RECAP-ZIL pool + 3000 RECAP per Epoch for NEWS-ZIL pool
-Top 10 Leaderboard Reward	Random RECAP amount from Grant Treasury monthly
-Revenue Reward	Added to LP reward: 40% of Revenue to RECAP-ZIL pool (out of 50% after burn)
-Grant Treasury	2000 RECAP per week Epoch saved in Treasury
-Max Hard Cap	11,000,000 RECAP
-Initial Circulating Supply	200,000 RECAP (100,000: Zilswap | 40,000: Writers | 40,000: Validators | 20,000: Team)
-Minting Cycle	10,000 RECAP per week Epoch
-
-
 ## Revenue of RECAP Network	
 Ad revenue = varies (in any ZRC token + ZIL accepted)<br>
 Revenue distribution = 60% to Liquidity Providers, 20% to Protocol Developers, 20% to Treasury<br>
