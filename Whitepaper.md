@@ -1,7 +1,7 @@
 ## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> Review Capital (RECAP)
 RECAP is a ZRC-2 token used in BuzzerNepal to decentralize the news portal industry.
 
-Last Updated: March 1, 2021
+Last Updated: May 17, 2021
 
 - [Home Page](https://www.reviewcapital.org) | [BuzzerNepal](https://www.buzzernepal.com)
 
@@ -12,36 +12,38 @@ Last Updated: March 1, 2021
 News industry is one of the most influential market with biggest user count and advertisements revenue. Bringing news industry into blockchain system will decentralize both contents and ad revenue.
 
 ## Decentralized News Portal System
-Review Capital focuses on building decentralized news portal built on Zilliqa blockchain. It runs on censorship-resistant mechanism and gets integrated with ZRC-2 token called RECAP. News articles on this platform are published, validated and circulated without any central authority. Even the advertisement placement goes through decentralized community decision. This will mimick the traditonal news industry into complete end-to-end blockchain system.
+Review Capital focuses on building decentralized news portal built on Zilliqa blockchain. It runs on censorship-resistant mechanism on IPFS and gets integrated with ZRC-2 token called RECAP. News articles on this platform are published, validated and circulated without any central authority. Even the advertisement placement goes through decentralized community decision. This will mimick the traditonal news industry into complete end-to-end blockchain system.
 
 * News Submission Process: Anyone can submit news and track it in smart contract regarding publication, trust score and earnings.
-* News Publication Process: Anyone can become a validator and participates in news publication process in decentralized way.
-* News Validation Process: Community will set up standards based on voting to validate all news.
+* News Publication Process: Anyone can become a validator and participates in news publication process in decentralized way with IPFS.
+* News Validation Process: Community will set up standards based on voting to validate all news with governance portal.
 * Advertisement Submission Process: Anyone can submit advertisements of any kind.
 * Advertisement Placement Process: Validators participate in selection and approval of advertisements similar to news articles.
 * Reward Distribution Process: Smart Contract distributes the rewards to eligible participants.
 
-## Tokenomics of RECAP
-Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 - 1 RECAP token to submit an article and 10 RECAP tokens to submit an advertisement. 10k RECAP tokens are minted per rewards cycle until the supply of 11 millions RECAP lasts. Reward minting triggers after CERTAIN number of published articles get validation. These newly minted RECAP tokens are distributed to writers, validators and developers. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
 
-Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. There will be no tokens minted until X numbers of articles are validated in defined period.
+
+## Tokenomics of RECAP
+Review Capital will operate in RECAP token with max supply of 11 millions RECAP tokens. RECAP is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators and protocol developers. It costs 10 - .1 RECAP token to submit an article and 10 RECAP tokens to submit an advertisement. 10k RECAP tokens are minted per rewards cycle until the supply of 11 millions RECAP lasts. Reward minting triggers at the end of epoch. These newly minted RECAP tokens are distributed to writers, validators and developers. News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
+
+Tokens are distributed in the ratio of 2:2:1 among Writers, Validators and Developers. There will be no tokens minted until the end of epoch.
 
 Max supply cap = 11 million RECAP <br>
 Decimals = 12<br>
-Minting process = X number of validated articles per cycle<br>
-Per cycle RECAP minting = fixed 10k RECAP until max cap<br>
-Distribution: 40% : 40% : 20% for writer/validator/developer<br>
+1 epoch = 1 week = 1 cycle<br>
+Minting phase = 2 (Initial & Live phases)<br>
+Initial Minting phase mints 200,000 RECAP only<br>
+Live Minting phase mints 10,000 RECAP each epoch until 11,000,000th RECAP<br>
+Distribution: 40% : 40% : 20% for writer\/validator\/developer<br>
 
-Inflation phase period change: Every 657,000 blocks (approx. 1 year block time)<br>
-Number of validated article to trigger minting = 10 - 1280  (it goes double every block year until 1280 and takes approx. 8 years)<br>
-Cost fee of article submission = 10 - 0.10 (it goes down every block year until 0.1)<br>
-Max reward per article = 400 - 0.3125 RECAP (it goes down every block year until 0.3125)<br>
+Cost fee of article submission = 0.01 (changes with governance voting)<br>
+Max reward per cycle = 4000 ( 4000 gets distributed amongst the published article within the cycle based on the trust score)<br>
 
 <b><br>Initial Minting</br></b>
 
 There will an initial minting of 200k RECAP token to kickstart the beta phase of project. <br>
 100k RECAP will be used to provide liquidity in Zilswap.<br>
-Remaining 100K RECAP will be distributed for beta Writers, beta Validators and early adopters. <br>
+Remaining 100K RECAP will be distributed for beta Writers, beta Validators and developers. <br>
 
 | Phases             | Involved Parties               | Token Supply (RECAP)  | Percentage Own | Phase Period            |
 | ------------------ | ------------------------------ | ----------------------| :-----------:  | :---------------------: |
@@ -52,23 +54,23 @@ Remaining 100K RECAP will be distributed for beta Writers, beta Validators and e
 Once project goes live with validator app and governance, remaining 10.8 million RECAP tokens are minted based on reward cycle.
 
 
-| Phases             | Involved Parties               | Token Supply (RECAP)                | Percentage Own | Phase Period            |
-| ------------------ | ------------------------------ | ----------------------------------- | :-----------:  | :---------------------: |
-| Minting - Phase 0  | News Writers                   | 4,000 per 10 articles reward cycle  |      40%       | 0-1 year block time     |
-| Minting - Phase 0  | Validators                     | 4,000 per 10 articles reward cycle  |      40%       | 0-1 year block time     |
-| Minting - Phase 0  | Team Development               | 2,000 per 10 articles reward cycle  |      20%       | 0-1 year block time     |
-|                    |                                |                                     |                |                         |
-| Minting - Phase 1  | News Writers                   | 4,000 per 20 articles reward cycle  |      40%       | 1-2 year block time     |
-| Minting - Phase 1  | Validators                     | 4,000 per 20 articles reward cycle  |      40%       | 1-2 year block time     |
-| Minting - Phase 1  | Team Development               | 2,000 per 20 articles reward cycle  |      20%       | 1-2 year block time     |
-|                    |                                |                                     |                |                         |
-|                    | Max Supply                     | 11,000,000                          |     100%       |                         |
+| Phases             | Involved Parties               | Token Supply (RECAP)         | Percentage Own | Phase Period            |
+| ------------------ | ------------------------------ | ---------------------------- | :-----------:  | :---------------------: |
+| Minting - Phase 0  | News Writers                   | 4,000 per week reward cycle  |      40%       | 0-1 year block time     |
+| Minting - Phase 0  | Validators                     | 4,000 per week reward cycle  |      40%       | 0-1 year block time     |
+| Minting - Phase 0  | Team Development               | 2,000 per week reward cycle  |      20%       | 0-1 year block time     |
+|                    |                                |                              |                |                         |
+| Minting - Phase 1  | News Writers                   | 4,000 per week reward cycle  |      40%       | 1-2 year block time     |
+| Minting - Phase 1  | Validators                     | 4,000 per week reward cycle  |      40%       | 1-2 year block time     |
+| Minting - Phase 1  | Team Development               | 2,000 per week reward cycle  |      20%       | 1-2 year block time     |
+|                    |                                |                              |                |                         |
+|                    | Max Supply                     | 11,000,000                   |     100%       |                         |
 
-When the max supply hits 11,000,000 RECAP tokens, network will run only on "News" submission fee and "Advertisement" submission fee.
+When the max supply hits 11,000,000 RECAP tokens, network will run only on "News/Articles/Contents" submission fee and "Advertisement" submission fee.
 
 
 ## Community Ecosystem
-* News Writers: Anyone who submits news or article or review contents for publication is called News Writer. Each news writer gets reward based on Trust Score of news article.
+* News Writers: Anyone who submits news or articles or contents for publication is called News Writer. Each news writer gets reward based on Trust Score of news article.
 >Trust Score: Trust score is a percentage value assigned to each article after curation from Validators. A news article with less than 50% Trust Score does not qualify for rewards. Validation are randomly push over to sample population of active validators for Publication Check, Evidence Check, Quality Check and Impact Check.
 
 * Validators: Anyone who participates in validation of news content and advertisements is called Validator. Each validator gets reward based on Profile Score.
@@ -76,60 +78,61 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on "News
 
 * Developers: Anyone who is a member of core team working on RECAP protocol is called Developer. Reward received in developer wallet is used for growth of RECAP ecosystem.
 
+## Utilities of RECAP	
+a) Articles submission.<br>
+b) Appeal submission.<br>
+c) Ads submission.<br>
+
+## Revenue of RECAP Network	
+Article submission fee = 0.1 RECAP (changes with governance voting)<br>
+Ads submission fee = 10 RECAP (changes with governance voting)<br>
+Appeal submission fee = 10 RECAP (changes with governance voting)<br>
+Ad revenue = varies (in any ZRC token + ZIL accepted)<br>
+Validator Entry Fee = 0 RECAP (changes with governance voting)<br>
+Revenue distribution = 30% to Writers, 30% to Validators, 30% to Holders, 10% to Treasury<br>
 
 ## Reward Mechanism
-Since RECAP tokens are rewarded to 3 parties: News Writers, Validators and Protocol Developers, there exists a distribution mechanism for fairness.
+<i><b>Rules of RECAP distribution</i></b><br>	
+a) Writers get rewards based on Trust Score of each article.<br> 
+b) Validators get rewards based on their Profile Score.<br>
+c) Holders get rewards based on their holding shares in RECAP liquidity pool.<br>
+d) Developers get rewards as grant for development.<br>
+
+Since RECAP tokens are rewarded to 4 parties: News Writers, Validators, RECAP Holders, and Protocol Developers there exists a distribution mechanism for fairness.
 
 <i><b>Rewards of writers based on trust score of news articles</i></b><br>
 All submitted news articles are validated and assigned a final Trust Score within 1 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
-a) It must have Trust Score of 50% or more.
-b) Platform must have 10 validated articles in start period before cycle Reward Distribution is triggered.
+a) It must have Trust Score of 50% or more.<br>
+b) Cycle Reward Distribution is triggered at the end of reward cycle.<br>
 
-Weekly Writers Reward Pool (WR) = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
-                                = Cycle Fee Pool% * Total Reward of each Cycle * (Trust Score of an article/Total Trust Score of Pool)%
-                                
-                           
-1 Reward cycle will accommodate 10 validated articles in Phase 0.
+Article's reward = {(Trust Score of an article)\/(Total Trust score of that Cycle)}\*(4000 + 0.3\*revenue of that epoch) RECAP<br>
+Eligibility = 50% or more Trust Score + Status: Validation Completed<br>                                
+Reward cycle = 1 week in Phase 0<br>
  
-An article will be categorized into 5 groups based on the trust score they receive in order for the reward to be distributed. 
-
-
-| Trust Score  | Cycle Fee Pool %.   |  Cycle Rewards Pool (RECAP)     | Distribution  |
-| ------------ | ------------------- | ------------------------------- | :-----------: |
-| 50% - 60%    | 5%                  |     25 RECAP per article + fee  |  Equal        |
-| 61% - 70%    | 10%                 |     50 RECAP per article + fee  |  Equal        |
-| 71% - 80%    | 20%                 |    100 RECAP per article + fee  |  Equal        |
-| 81% - 90%    | 25%                 |    200 RECAP per article + fee  |  Equal        |
-| 91% - 100%   | 40%                 |    400 RECAP per article + fee  |  Equal        |
-
-  
-
-The highest reward - 400 RECAP goes to articles falling in the group with trust score of 90%-100% and the lowest 25 RECAP goes to the one with trust score of 50%-59%.
-
 4000 RECAP will be minted in a new reward cycle for the articles. This number represents the maximum possible reward distribution scenario in Phase 0.
-
-For example: If 10 out of 10 articles in a reward cycle fall in the 90%-100% group, the total reward to be distributed would be 4000. Therefore, since all other scenarios would result in the total amount less than that, there would be enough amount for reward distribution. Unspent RECAP will be reserved for writer's development and marketing proposes
-
 
 <i><b>Rewards of validators based on profile score</i></b><br>
 Any wallet with 1000 RECAP token can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive RECAP tokens.
 
-Cycle Validator Reward Pool = 40% of (minted + fee collected) = 4000 RECAP + 40% of Collected fee
-
-| Profile Score  | Cycle Fee Pool %  | Weekly Rewards Pool (RECAP) | Distribution  |
-| -------------- | ----------------- | --------------------------- | :-----------: |
-| 50% - 60%      | 5%                |  25 RECAP per cycle + fee   |  Equal        |
-| 61% - 70%      | 10%               |  50 RECAP per cycle + fee   |  Equal        |
-| 71% - 80%      | 20%               | 100 RECAP per cycle + fee   |  Equal        |
-| 81% - 90%      | 25%               | 200 RECAP per cycle + fee   |  Equal        |
-| 91% - 100%     | 40%               | 400 RECAP per cycle + fee   |  Equal        |
+Cycle Validator's reward = {(Profile Score of a validator)\/(Total Profile Score of that Cycle article wise)}\*(4000 + 0.3\*revenue of that epoch) RECAP<br>
+Eligibility = 1000 RECAP; 50% or more Profile Score + Status: Active (might be penalized\/blacklisted\/lower than 1000 RECAP)<br>
 
 If there is no validator wallet in any of the group, the allocated rewards goes to Airdrop wallet to randomly reward community events based on community vote.
 
+<i><b>Rewards for RECAP holders</i></b><br>
+Any RECAP holder who provides liquidity to the RECAP liquidity pool will be eligible to get holder's reward.
+
+Holder's reward = (% holding share of RECAP liquidity pool)\*(0.3\*revenue of that epoch) RECAP<br>
+
+<i><b>RECAP Treasury</i></b><br>
+10% of the revenue collected in that epoch goes to treasury, which can be used for expenses such as operating cost, marketing, development, etc.
+
+Treasury = (0.1\*revenue of that epoch) RECAP<br>
+
 ## Smart Contract Details
->This will be updated very soon ....
+Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc?network=mainnet
 
 ## Products & Partners of Review Capital
 * Review Capital
@@ -153,12 +156,14 @@ If there is no validator wallet in any of the group, the allocated rewards goes 
 |                                 |                                                            |                              |
 | Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - July 30th 2021    |
 |                                 | Deploy smart contract for Reward mechanism.                |                              |
-|                                 |                                                            |                              |
+|                                 | Develop Onboarding Campaign to bring in Writers and Validators.|                              |
+|                                 | Develop RECAP-exclusive Validation App for the article validation.|                              |
+|                                 | Integrate IPFS and RECAP + ZIL token with News Portal Application.|                             |
 
 
 
 ## Team
-Review Capital has 7 board members in core team.
+Review Capital has 6 board members in core team.
 
 
 
