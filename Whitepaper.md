@@ -1,5 +1,5 @@
 ## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> Review Capital (RECAP)
-RECAP is a ZRC-2 token used in BuzzerNepal to decentralize the news portal industry.
+RECAP is a ZRC-2 token used across all Review Capital applications to bring decentralized governacne over news portal industry.
 
 Last Updated: July 02, 2021
 
@@ -68,7 +68,7 @@ When the max supply hits 11,000,000 RECAP tokens, network will run only on reven
 * Treasury: Rewards received in the Treasury (Grant) will be utilized to provide grants.
 
 ## Utilities of RECAP	
-a) Governance Voting (Voting power 1:1 ratio i.e 1 vote for  RECAP).<br>
+a) Governance Voting (Voting power 1:1 ratio i.e 1 vote for 1 RECAP).<br>
 b) Revenue Distribution.<br>
 c) Rewards Distribution.<br>
 d) Grant Distribution.<br>
@@ -84,29 +84,25 @@ Revenue distribution = 60% to Liquidity Providers, 20% to Protocol Developers, 2
 <i><b>Rules of RECAP distribution</i></b><br>	
 a) Liquidity providers get rewards based on their holding shares in RECAP liquidity pool.<br>
 b) Developers get rewards as grant for development.<br>
-c) Treasury rewards will be will be utilized to provide grants.<br>
-
-Since RECAP tokens are rewarded to 3 parties: Liquidity  Providers, Protocol Developers, and Treasury (Grants) there exists a distribution mechanism for fairness.
+c) Treasury rewards will be utilized to provide grants.<br>
 
 <i><b>Rewards for RECAP Liquidity Providers</i></b><br>
-Any RECAP holder who provides liquidity to the liquidity pool of RECAP-ZIL pool and Utility Token - ZIL pool will be eligible to get holder's reward.
+Any RECAP holder who provides liquidity to the liquidity pool of RECAP-ZIL pool and Utility Token - ZIL pool will be eligible to get LP reward.
 
-Liquidity Provider's reward for Zilswap RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000) RECAP each epoch<br>
-Liquidity Provider's reward for Zilswap Utility Token-ZIL Pool= (% holding share of liquidity pool)\*3000) each RECAP<br>
+Liquidity Provider's reward for Zilswap RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000) RECAP each Epoch<br>
+Liquidity Provider's reward for Zilswap Utility Token-ZIL Pool= (% holding share of liquidity pool)\*3000) RECAP each Epoch<br>
 
 Any unutilized tokens will be kept in Treasury.
 
 <i><b>Rewards for RECAP Protocol Developers</i></b><br>
 Core team members of the Review Capital project are considered as the RECAP protocol developers.
 
-Reward for RECAP Protocol Developers = 2,000 RECAP
+Reward for RECAP Protocol Developers = 2,000 RECAP per Epoch
 
 <i><b>RECAP Treasury</i></b><br>
 Certain amount of RECAP in each epoch goes to treasury, which can be used for the growth of the community and to cover expenses such as grants,operating cost, marketing, development, etc.
 
 Treasury = 2000 RECAP each epoch<br>
-
-Any excess tokens will be kept in Treasury.
 
 ## Smart Contract Details
 Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj75raavl4yfn4ssc?network=mainnet
@@ -131,7 +127,7 @@ Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj
 |                                 | Write smart contract for Reward mechanism.                 |                              |
 |                                 | Launch BuzzerNepal Beta Phase with RECAP mainnet           |                              |
 |                                 |                                                            |                              |
-| Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - July 30th 2021    |
+| Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - Aug 30th 2021    |
 |                                 | Deploy smart contract for Reward mechanism.                |                              |
 |                                 | Develop Onboarding Campaign to bring in Writers and Validators.|                              |
 |                                 | Develop RECAP-exclusive Validation App for the article validation.|                              |
@@ -140,10 +136,10 @@ Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj
 
 
 ## Team
-Review Capital has 6 board members in core team.
+Review Capital has 6 board members in core team. In official ollaboration with Zilhive (Innovation Grant Receiver)
 
 ## Tokenomics of Utility Token
-Utility Token will be having max supply of 10,000 Tokens per epoch. Utility token is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators, protocol developers and treasury (grants). It costs 0.1 Utility token to submit an article and 10 Utility tokens to submit an advertisement. Maximum of 10,000 Utility tokens are minted per rewards cycle. Reward minting triggers at the end of epoch. These newly minted Utility tokens are distributed to writers, validators, developers and treasury (grants). News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
+Utilities of news portals will be driven by "Utility" token that mints max supply of 10,000 Tokens per Epoch and burns 100% of all collected fees. This "Utility" token is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators, protocol developers and treasury (grants). It costs 1 Utility token to submit an article and 10 Utility tokens to submit an advertisement. Maximum of 10,000 Utility tokens are minted per rewards cycle. Reward minting triggers at the end of epoch. These newly minted Utility tokens are distributed to writers, validators, developers and treasury (grants). News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
 
 Tokens are distributed in the ratio of 3:3:2:2 among Writers, Validators, Developers, Treasury. There will be no tokens minted until the end of epoch.
 
@@ -151,24 +147,24 @@ Max supply cap = 10,000 Utility token per epoch <br>
 Decimals = 12<br>
 1 epoch = 1 week = 1 cycle<br>
 Minting phase = 2 (Initial & Live phases)<br>
-Initial Minting phase mints 400,000 Utility tokens only<br>
-Live Minting phase mints 1 Utility Token per article each epoch with the maximum minting of 10,000 Utility Token<br>
+Initial Minting phase mints 4,000,000 Utility tokens only<br>
+Live Minting phase mints each epoch based on Trust Score and Profile Score without exceeding the maximum minting of 10,000 Utility Token<br>
 Distribution: 30% : 30% : 20% : 20% for writer\/validator\/developer\/treasury<br>
 
-Cost fee of article submission = 0.1 Utility Token (changes with governance voting)<br>
-Cost fee of article validation = 0.01 Utility Token if Liquidity Provided is less than 1,000 Utility Token (changes with governance voting)
-Max reward per cycle = 1 Utility token per article ( 1 token per article gets distributed at the end of the cycle amongst writers (based on Trust score of article), validators (based on profile score), protocol developers, treasury)<br>
+Cost fee of article submission = 1 Utility Token (changes with governance voting)<br>
+Cost fee of article validation = 0.1 Utility Token (changes with governance voting)
+Max reward per cycle = 10 Utility token per article ( 10 token per article gets distributed at the end of the cycle amongst writers (based on Trust score of article), validators (based on profile score), protocol developers, treasury)<br>
 
 <b><br>Initial Minting</br></b>
 
-There will an initial minting of 400,000 Utility tokens to kickstart the project. <br>
-300,000 Utility token will be sold to public through ZILO.<br>
-Remaining 100,000 Utility token will be kept in Zilswap liquidity pool.<br>
+There will an initial minting of 4,000,000 Utility tokens to kickstart the project. <br>
+3,000,000 Utility token will be sold to public through ZILO.<br>
+Remaining 1,000,000 Utility token will be kept in Zilswap liquidity pool.<br>
 
 | Phases             | Involved Parties               | Token Supply (Utility Token)  | Percentage Own | Phase Period            |
 | ------------------ | ------------------------------ | ----------------------        | :-----------:  | :---------------------: |
-| Minting - Initial  | ZILO Sale                      | 300,000                       |      75%       | Token Deployment.       | 
-| Minting - Initial  | Zilswap Liquidity              | 100,000                       |      25%       | Token Deployment.       |
+| Minting - Initial  | ZILO Sale                      | 3,000,000                       |      75%       | Token Deployment.       | 
+| Minting - Initial  | Zilswap Liquidity              | 1,000,000                       |      25%       | Token Deployment.       |
 
 
 
@@ -189,7 +185,7 @@ Remaining 100,000 Utility token will be kept in Zilswap liquidity pool.<br>
 * Validators: Anyone who participates in validation of news content and advertisements is called Validator. Each validator gets reward based on Profile Score.
 >Profile Score: Profile score is a percentage value assigned to each validator after completion of validation task. A validator with less than 50% Profile Score does not qualify for rewards of that article. 
 
-* protocol Developers: Anyone who is a member of core team working on Utility Token protocol is called Developer. Reward received in developer wallet is used for growth of Utility Token ecosystem.
+* Protocol Developers: Anyone who is a member of core team working on Utility Token protocol is called Developer. Reward received in developer wallet is used for growth of Utility Token ecosystem.
 
 ## Utilities of Utility Token	
 a) Articles submission.<br>
@@ -197,11 +193,11 @@ b) Appeal submission.<br>
 c) Ads submission.<br>
 
 ## Revenue of Utility Network	
-Article submission fee = 0.1 Utility Token (changes with governance voting)<br>
+Article submission fee = 1 Utility Token (changes with governance voting)<br>
 Ads submission fee = 10 Utility Token (changes with governance voting)<br>
 Appeal submission fee = 10 Utility Token (changes with governance voting)<br>
 Ad revenue = varies (in any ZRC token + ZIL accepted)<br>
-Validation Submission Fee = 0.01 Utility Token if Liquidity Provided in Zilswap Utility Token - ZIL Pool is less than 1000 Utility Token (changes with governance voting)<br>
+Validation Submission Fee = 0.1 Utility Token (changes with governance voting)<br>
 Revenue distribution = 30% to Writers, 30% to Validators, 20% to Developers, 20% to Treasury<br>
 Token Burning = 100% of the token collected as a fee through article subission and validation submission will be burned at the end of epoch.
 
@@ -210,13 +206,13 @@ Token Burning = 100% of the token collected as a fee through article subission a
 a) Writers get rewards based on Trust Score of each article.<br> 
 b) Validators get rewards based on their Profile Score.<br>
 c) Developers get rewards as grant for development.<br>
-d) Treasury rewards will be will be utilized to provide grants.
+d) Treasury rewards will be utilized to provide grants.
 
 Since Utility tokens are rewarded to 4 parties: News Writers, Validators, Protocol Developers, and Treasury (grants) there exists a distribution mechanism for fairness.
 
 <i><b>Rewards of writers based on trust score of news articles</i></b><br>
 All submitted news articles are validated and assigned a final Trust Score within 1 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
-a) It must have Trust Score of 50% or more.<br>
+a) It must have Trust Score of more than 50%.<br>
 b) Cycle Reward Distribution is triggered at the end of reward cycle.<br>
 
 Article's reward = 0.3\*{(Trust Score of an article)\/(Total Trust Score of that Cycle)}\*Tokens to be minted in that epoch Utility Token<br>
@@ -229,7 +225,7 @@ Any wallet can become a Validator. When news articles are submitted, they are ra
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive Utility tokens.
 
 Cycle Validator's reward = 0.3*\{(Profile Score of a validator)\/(Total Profile Score of that Cycle article wise)}\*Tokens to be minted in that epoch Utility Token<br>
-Eligibility = 1000 Utility token in Liquidity Pool or 0.01 Utility Token Fees; 50% or more Profile Score + Status: Active <br>
+Eligibility = 0.01 Utility Token Fees; More than 50% Profile Score + Status: Active <br>
 
 If there is no validator wallet in any of the group, the allocated rewards goes to Treasury (grant) wallet to randomly reward community events based on community vote.
 
@@ -250,6 +246,3 @@ Any excess tokens will be kept in Treasury.
 ## Smart Contract Details
 Token Contract: Coming Soon 
 
-
-## Team
-Utility Token has 6 board members in core team.
