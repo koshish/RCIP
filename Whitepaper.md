@@ -89,8 +89,8 @@ c) Treasury rewards will be utilized to provide grants.<br>
 <i><b>Rewards for RECAP Liquidity Providers</i></b><br>
 Any RECAP holder who provides liquidity to the liquidity pool of RECAP-ZIL pool and Utility Token - ZIL pool will be eligible to get LP reward.
 
-Liquidity Provider's reward for Zilswap RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000) RECAP each Epoch<br>
-Liquidity Provider's reward for Zilswap Utility Token-ZIL Pool= (% holding share of liquidity pool)\*3000) RECAP each Epoch<br>
+Liquidity Provider's reward for Zilswap RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
+Liquidity Provider's reward for Zilswap Utility Token-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
 
 Any unutilized tokens will be kept in Treasury.
 
@@ -206,12 +206,12 @@ Token Burning = 100% of the token collected as a fee through article subission a
 a) Writers get rewards based on Trust Score of each article.<br> 
 b) Validators get rewards based on their Profile Score.<br>
 c) Developers get rewards as grant for development.<br>
-d) Treasury rewards will be utilized to provide grants.
+d) Treasury rewards will be utilized to provide grants.<br>
 
-Since Utility tokens are rewarded to 4 parties: News Writers, Validators, Protocol Developers, and Treasury (grants) there exists a distribution mechanism for fairness.
+Since Utility tokens are rewarded to 4 parties: News Writers, Validators, Protocol Developers, and Treasury (grants) there exists a distribution mechanism for fairness.<br>
 
 <i><b>Rewards of writers based on trust score of news articles</i></b><br>
-All submitted news articles are validated and assigned a final Trust Score within 1 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:
+All submitted news articles are validated and assigned a final Trust Score within 1 days. Trust Score for any news article is a percentage score ranging from 0 to 100. News article with less than 50% Trust Score does not qualify for rewards. To be eligible for rewards, following 2 conditions must met:<br>
 a) It must have Trust Score of more than 50%.<br>
 b) Cycle Reward Distribution is triggered at the end of reward cycle.<br>
 
@@ -220,7 +220,7 @@ Eligibility = 50% or more Trust Score + Status: Validation Completed<br>
 Reward cycle = 1 week <br>
 
 <i><b>Rewards of validators based on profile score</i></b><br>
-Any wallet can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".
+Any wallet can become a Validator. When news articles are submitted, they are randomly sent out for validation among a sample pool of Validators. Each validation expires within 24 hours or 100% validation response. If "Publication Check" fails for any article, it gets instantly removed from platform. Other validations includes "Evidence Check", "Quality Check" and "Impact Check".<br>
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive Utility tokens.
 
