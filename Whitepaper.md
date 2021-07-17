@@ -87,9 +87,10 @@ b) Developers get rewards as grant for development.<br>
 c) Treasury rewards will be utilized to provide grants.<br>
 
 <i><b>Rewards for RECAP Liquidity Providers</i></b><br>
-Any RECAP holder who provides liquidity to the liquidity pool of RECAP-ZIL pool and Utility Token - ZIL pool will be eligible to get LP reward.
+Any RECAP holder who provides liquidity to the liquidity pools will be eligible to get LP reward.
 
 Liquidity Provider's reward for Zilswap RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
+
 Liquidity Provider's reward for Zilswap Utility Token-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
 
 Any unutilized tokens will be kept in Treasury.
@@ -100,7 +101,7 @@ Core team members of the Review Capital project are considered as the RECAP prot
 Reward for RECAP Protocol Developers = 2,000 RECAP per Epoch
 
 <i><b>RECAP Treasury</i></b><br>
-Certain amount of RECAP in each epoch goes to treasury, which can be used for the growth of the community and to cover expenses such as grants,operating cost, marketing, development, etc.
+Certain amount of RECAP in each Epoch goes to treasury, which can be used for the growth of the community and to cover expenses such as grants, operating cost, marketing, development, etc.
 
 Treasury = 2000 RECAP each epoch<br>
 
@@ -111,32 +112,6 @@ Token Contract: https://viewblock.io/zilliqa/address/zil12drvflckms6874ffuujcdxj
 * Review Capital
 * BuzzerNepal
 
-
-## Roadmap
->The brainstorming on this idea of decentralized news portal happened in March 2020 between Krishna & Anil. Initially the plan was to work on "Reviews" sector but later the team pivoted and focused on News sector. Between March 2020 and Feb 2021, a lot of paperworks and documentations were done. To build a working prototype, team decided to fork DASH blockchain and implement all the changes to fit RECAP ecosystem. With this successful prototype, we have a lot of plans ahead to launch on Zilliqa mainnet and achieive various milestones.
-
-| Phase ID                        |       Goals & Milestones                                   |       Tentative Dates        |
-| ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
-| Prototype                       | Validate use cases and analyze feedback from community     | March 20th - Feb 28th  2021  |
-|                                 | Team building and fund raising                             |                              |
-|                                 | Fork DASH and implement RECAP ecosystem                    |                              |
-|                                 | Launch BuzzerNepal                                         |                              |
-|                                 | Finalize v.1 Whitepaper based on prototype development     |                              |
-|                                 |                                                            |                              |
-| Mainnet on Zilliqa.             | Launch RECAP token on Zilliqa testnet & mainnet            | March 1st - May 30th 2021    |
-|                                 | Write smart contract for Reward mechanism.                 |                              |
-|                                 | Launch BuzzerNepal Beta Phase with RECAP mainnet           |                              |
-|                                 |                                                            |                              |
-| Phase 0                         | Launch BuzzerNepal with RECAP mainnet                      | May 30th - Aug 30th 2021    |
-|                                 | Deploy smart contract for Reward mechanism.                |                              |
-|                                 | Develop Onboarding Campaign to bring in Writers and Validators.|                              |
-|                                 | Develop RECAP-exclusive Validation App for the article validation.|                              |
-|                                 | Integrate IPFS and RECAP + ZIL token with News Portal Application.|                             |
-
-
-
-## Team
-Review Capital has 6 board members in core team. In official ollaboration with Zilhive (Innovation Grant Receiver)
 
 ## Tokenomics of Utility Token
 Utilities of news portals will be driven by "Utility" token that mints max supply of 10,000 Tokens per Epoch and burns 100% of all collected fees. This "Utility" token is a ZRC-2 compliant fungible token which will primarily act as a reward incentives to news writers, validators, protocol developers and treasury (grants). It costs 1 Utility token to submit an article and 10 Utility tokens to submit an advertisement. Maximum of 10,000 Utility tokens are minted per rewards cycle. Reward minting triggers at the end of epoch. These newly minted Utility tokens are distributed to writers, validators, developers and treasury (grants). News writers get reward based on Trust Score of news & validators get reward based on their Profile Score.
@@ -224,7 +199,7 @@ Any wallet can become a Validator. When news articles are submitted, they are ra
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive Utility tokens.
 
-Cycle Validator's reward = 0.3*\{(Profile Score of a validator)\/(Total Profile Score of that Cycle article wise)}\*Tokens to be minted in that epoch Utility Token<br>
+Cycle Validator's reward = 0.3*\{(Profile Score of a validator)\/(Total Profile Score of that Cycle)}\*Tokens to be minted in that Epoch Utility Token<br>
 Eligibility = 0.01 Utility Token Fees; More than 50% Profile Score + Status: Active <br>
 
 If there is no validator wallet in any of the group, the allocated rewards goes to Treasury (grant) wallet to randomly reward community events based on community vote.
@@ -245,4 +220,32 @@ Any excess tokens will be kept in Treasury.
 
 ## Smart Contract Details
 Token Contract: Coming Soon 
+
+## Roadmap
+>The brainstorming on this idea of decentralized news portal happened in March 2020 between Krishna & Anil. Initially the plan was to work on "Reviews" sector but later the team pivoted and focused on News sector. Between March 2020 and Feb 2021, a lot of paperworks and documentations were done. To build a working prototype, team decided to fork DASH blockchain and implement all the changes to fit RECAP ecosystem. With this successful prototype, we have a lot of plans ahead to launch on Zilliqa mainnet and achieive various milestones.
+
+| Phase ID                        |       Goals & Milestones                                   |       Tentative Dates        |
+| ------------------------------  | ---------------------------------------------------------- | ---------------------------- |
+| Prototype                       | Validate use cases and analyze feedback from community     | March 20th - Feb 28th  2021  |
+|                                 | Team building and fund raising                             |                              |
+|                                 | Fork DASH and implement RECAP ecosystem                    |                              |
+|                                 | Launch BuzzerNepal                                         |                              |
+|                                 | Finalize v.1 Whitepaper based on prototype development     |                              |
+|                                 |                                                            |                              |
+| Mainnet on Zilliqa.             | Launch RECAP token on Zilliqa testnet & mainnet            | March 1st - May 30th 2021    |
+|                                 | Write smart contract for Reward mechanism.                 |                              |
+|                                 | Launch BuzzerNepal Beta Phase with RECAP mainnet           |                              |
+|                                 |                                                            |                              |
+| Phase 0                         | Launch BuzzerNepal BETA + TESTNET                          | May 30th - Aug 30th 2021    |
+|                                 | Deploy smart contract for Reward mechanism.                |                              |
+|                                 | Develop Onboarding Campaign to bring in Writers and Validators.|                              |
+|                                 | Develop RECAP-exclusive Validation App for the article validation.|                              |
+|                                 | Integrate IPFS and RECAP + ZIL token with News Portal Application.|                             |
+
+
+
+## Team
+Review Capital has 6 board members in core team. In official ollaboration with Zilhive (Innovation Grant Receiver)
+
+
 
