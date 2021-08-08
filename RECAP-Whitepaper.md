@@ -1,7 +1,7 @@
 ## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> Review Capital (RECAP)
 RECAP is a ZRC-2 token used across all Review Capital applications to bring decentralized governacne over news portal industry.
 
-Last Updated: August 03, 2021
+Last Updated: August 08, 2021
 
 - [Home Page](https://www.reviewcapital.org) | [BuzzerNepal](https://www.buzzernepal.com)
 
@@ -86,10 +86,11 @@ b) Developers get rewards as grant for development.<br>
 c) Treasury rewards will be utilized to provide grants.<br>
 
 <i><b>Rewards for RECAP Liquidity Providers</i></b><br>
-Any RECAP holder who provides liquidity to the liquidity pool of RECAP-ZIL pool and Utility Token - ZIL pool will be eligible to get LP reward.
+Any RECAP holder who provides liquidity to the liquidity pools will be eligible to get LP reward.
 
-Liquidity Provider's reward for Zilswap RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
-Liquidity Provider's reward for Zilswap Utility Token-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
+Liquidity Provider's reward for RECAP-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
+
+Liquidity Provider's reward for NEWS-ZIL Pool= (% holding share of liquidity pool)\*3000 RECAP each Epoch<br>
 
 Any unutilized tokens will be kept in Treasury.
 
@@ -99,7 +100,7 @@ Core team members of the Review Capital project are considered as the RECAP prot
 Reward for RECAP Protocol Developers = 2,000 RECAP per Epoch
 
 <i><b>RECAP Treasury</i></b><br>
-Certain amount of RECAP in each epoch goes to treasury, which can be used for the growth of the community and to cover expenses such as grants,operating cost, marketing, development, etc.
+Certain amount of RECAP in each Epoch goes to treasury, which can be used for the growth of the community and to cover expenses such as grants, operating cost, marketing, development, etc.
 
 Treasury = 2000 RECAP each epoch<br>
 

@@ -1,7 +1,7 @@
-## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> Review Capital (RECAP)
+## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> News (NEWS)
 NEWS is a ZRC-2 token used across all Network of Utility Projects running under the umbrella of Review Capital to bring decentralized utility over news portal industry.
 
-Last Updated: August 03, 2021
+Last Updated: August 08, 2021
 
 - [Home Page](https://www.reviewcapital.org) | [BuzzerNepal](https://www.buzzernepal.com)
 
@@ -107,7 +107,7 @@ Any wallet can become a Validator. When news articles are submitted, they are ra
 
 While these checks build up a "Trust Score" for a news article, the accuracy of validation makes Profile Score for a validator. A validator can miss the task or may provide validation which falls either in majority or minority. Based on these factors, profile score is maintained for each eligible wallet. When cycle rewards are minted, only validators, whose Profile Score is 50% or more, are eligible to receive NEWS tokens.
 
-Cycle Validator's reward = 0.3*\{(Profile Score of a validator)\/(Total Profile Score of that Cycle article wise)}\*Tokens to be minted in that epoch NEWS Token<br>
+Cycle Validator's reward = 0.3*\{(Profile Score of a validator)\/(Total Profile Score of that Cycle)}\*Tokens to be minted in that Epoch NEWS Token<br>
 Eligibility = 0.01 NEWS Token Fees; More than 50% Profile Score + Status: Active <br>
 
 If there is no validator wallet in any of the group, the allocated rewards goes to Treasury (grant) wallet to randomly reward community events based on community vote.
