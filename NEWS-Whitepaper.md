@@ -1,4 +1,4 @@
-## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RIP/blob/master/web%20icon-01.png" width = "50 px" /> News (NEWS)
+## <img src="https://github.com/Review-Capital-Blockchain-Ecosystem/RCIP/tree/master/Media-kit/NEWS/NEWS-LOGO-3D-cropped.png" width = "50 px" /> News (NEWS)
 NEWS is a ZRC-2 token used across all Network of Utility Projects running under the umbrella of Review Capital to bring decentralized utility over news portal industry.
 
 Last Updated: August 08, 2021
